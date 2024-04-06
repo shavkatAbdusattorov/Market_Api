@@ -1,0 +1,2858 @@
+{
+  "Category": [
+    {
+      "id": "скидки",
+      "title": "Скидки",
+      "images": "https://magey.com.ua/wp-content/uploads/2023/12/240991.jpg",
+      "data": []
+    },
+    {
+      "id": 203040,
+      "title": "Умные часы",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQYdv3fp2j8f2Mj3Kti7lybuY9hnVQ6iM-w&usqp=CAU",
+      "data": [
+        {
+          "id": 905321,
+          "title": "Беспроводные наушники JBL Tune 710BT, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5120/besprovodnye-naushniki-jbl-tune-710bt-chernyy-1650540270615-xl.webp",
+          "price": 950
+        },
+        {
+          "id": 4353599233424,
+          "title": "Беспроводные наушники Xiaomi Redmi AirDots 2S, чёрные",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1446/besprovodnye-naushniki-xiaomi-redmi-airdots-2s-chernye-1636970343065-xl.webp",
+          "price": 310
+        },
+        {
+          "id": 85753,
+          "title": "Беспроводные наушники JBL Live 660NC, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5131/besprovodnye-naushniki-jbl-live-660nc-siniy-1650544329270-md.webp",
+          "price": 1480
+        },
+        {
+          "id": 132,
+          "title": "Беспроводные наушники Hoco W33, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4747/besprovodnye-naushniki-hoco-w33-chernyy-1648828014677-md.webp",
+          "price": 340
+        },
+        {
+          "id": 1578655252,
+          "title": "Беспроводные наушники Xiaomi Buds 3T Pro, белые",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10378/besprovodnye-naushniki-xiaomi-buds-3t-pro-belye-1669183256110-md.webp",
+          "price": 1350
+        },
+        {
+          "id": 33550,
+          "title": "Беспроводные TWS наушники QCY T17, голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14663/besprovodnye-naushniki-qcy-t17-goluboy-1685202168646-md.webp",
+          "price": 670
+        },
+        {
+          "id": 4812323,
+          "title": "Беспроводные наушники Baseus Bowie H1i, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/16727/besprovodnye-naushniki-baseus-bowie-h1i-chernyy-1690350375447-md.webp",
+          "price": 630
+        },
+        {
+          "id": 164325,
+          "title": "Беспроводные наушники Xiaomi Mi True WirelessEarbuds, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1403/besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-2-chernyy-1684412896384-md.webp",
+          "price": 244
+        },
+        {
+          "id": 104345987,
+          "title": "Беспроводные наушники JBL Tune 520BT, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19358/besprovodnye-naushniki-jbl-tune-520bt-siniy-1700632369357-md.webp",
+          "price": 770
+        },
+        {
+          "id": 845640242,
+          "title": "Проводные наушники Hoco M1 Pro, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/20028/naushniki-hoco-m1-pro-chernyy-1703672002480-md.webp",
+          "price": 60
+        },
+        {
+          "id": 659765,
+          "title": "Наушники Xiaomi Mi In-Ear Headphones Basic",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1457/naushniki-xiaomi-mi-in-ear-headphones-basic-1637041779077-md.webp",
+          "price": 99
+        },
+        {
+          "id": 324086,
+          "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp",
+          "price": 550
+        },
+        {
+          "id": 1774,
+          "title": "Беспроводные наушники Xiaomi Redmi Buds 3 Youth Edition, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3942/besprovodnye-naushniki-xiaomi-redmi-buds-3-youth-edition-chernyy-1643369425603-xl.webp",
+          "price": 350
+        },
+        {
+          "id": 14354361,
+          "title": "Беспроводные наушники Sony WH-1000XM5, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5973/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-1657275208277-md.webp",
+          "price": 3800
+        },
+        {
+          "id": 40301,
+          "title": "Беспроводные наушники Sony WH-1000XM5, белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5974/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-copy-1657275656301-md.webp",
+          "price": 3800
+        },
+        {
+          "id": 145689061,
+          "title": "Беспроводные наушники Hoco W25, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4743/besprovodnye-naushniki-hoco-w25-chernyy-1648826095316-md.webp",
+          "price": 220
+        },
+        {
+          "id": 1487235,
+          "title": "Беспроводные наушники Remax TWS-10i metal, оранжевый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12308/besprovodnye-naushniki-remax-tws-10i-metal-oranzhevyy-1677234075208-md.webp",
+          "price": 169
+        },
+        {
+          "id": 143361,
+          "title": "Беспроводные наушники E12, сиреневый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10410/besprovodnye-naushniki-e12-sirenevyy-1669202695925-md.webp",
+          "price": 176
+        },
+        {
+          "id": 409808,
+          "title": "Беспроводные наушники P9, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5796/besprovodnye-naushniki-p9-serebristyy-copy-1655376947054-md.webp",
+          "price": 68
+        },
+        {
+          "id": 65976534,
+          "title": "Беспроводные наушники QCY T17S",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6159/besprovodnye-naushniki-qcy-t17s-1659514993388-md.webp",
+          "price": 269
+        },
+        {
+          "id": 32403486,
+          "title": "Наушники Fantech WH01",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6426/naushniki-fantech-wh01-1662008186751-md.webp",
+          "price": 558
+        },
+        {
+          "id": 32401286,
+          "title": "Беспроводные наушники Y08, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10428/besprovodnye-naushniki-y08-chernyy-1669263545687-md.webp",
+          "price": 97
+        },
+        {
+          "id": 95,
+          "title": "Подсознательные бедность и богатство",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19268/besprovodnye-naushniki-hoco-w46-bezhevyy-1700202574015-md.webp",
+          "price": 231
+        },
+        {
+          "id": 4412981,
+          "title": "Беспроводные наушники 560 ВТ, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10384/besprovodnye-naushniki-560-vt-siniy-1669188660376-md.webp",
+          "price": 176
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Бытовая техника",
+      "images": "https://www.weissgauff.ru/photos/zZ2l9waWN0dXJlNF9pZDE2Mjc5NS5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvbRz.jpg",
+      "data": [
+        {
+          "id": 1312234435,
+          "title": "Стиральная машина LG TW4V7RW9T, 10.5 кг",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/949/stiralnaya-mashina-lg-tw4v7rw9t-1636356644298-md.webp",
+          "price": 7146
+        },
+        {
+          "id": 58921,
+          "title": "Стиральная машина Midea MFC70-ES1201(D), 7 кг",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1009/stiralnaya-mashina-midea-mfc70-es1201-d-7-kg-1635941204535-md.webp",
+          "price": 3449
+        },
+        {
+          "id": 4300099424,
+          "title": "Стиральная машина LG Steam F2J3HS4L, 7 кг",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1010/stiralnaya-mashina-lg-steam-f2j3hs4l-1636443954614-md.webp",
+          "price": 4205
+        },
+        {
+          "id": 8545300,
+          "title": "Стиральная машина Shivaki 80К141-I, 8 кг",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/986/stiralnaya-mashina-shivaki-80k141-i-korichnevyy-1635936907687-md.webp",
+          "price": 5449
+        },
+        {
+          "id": 22131124,
+          "title": "Стиральная машина Shivaki 70К124-I-GL/GR, 7 кг, коричневый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/994/stiralnaya-mashina-shivaki-70k124-i-gl-gr-1635934849182-md.webp",
+          "price": 4599
+        },
+        {
+          "id": 9008072,
+          "title": "Холодильник Blesk BL-121ZS (S), 93 л",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1330/holodilnik-blesk-bl-121zs-s-1636514953824-md.webp",
+          "price": 1438
+        },
+        {
+          "id": 9098800435,
+          "title": "Холодильник Beko RDSK240MOOW, 223 л",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1331/holodilnik-beko-rdsk240m00w-1636515949394-md.webp",
+          "price": 4050
+        },
+        {
+          "id": 678765,
+          "title": "Электрический духовой шкаф Simfer B 6208 OERIM",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6346/elektricheskiy-duhovoy-shkaf-simfer-b-6208-oerim-1661774584364-md.webp",
+          "price": 2850
+        },
+        {
+          "id": 16100200575,
+          "title": "Холодильник LG GA-B419SLJL, 302 л",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1382/holodilnik-lg-ga-b419sljl-302-l-1636633329858-md.webp",
+          "price": 8508
+        },
+        {
+          "id": 8100942,
+          "title": "Холодильник Samsung RB33A3440SA/WT, 328 л",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2042/holodilnik-samsung-rb33a3440sa-wt-328-l-1660280481985-md.webp",
+          "price": 5291
+        },
+        {
+          "id": 34123450,
+          "title": "Стиральная машина Samsung WW65A4S21CX/LD, 6.5 кг",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2430/stiralnaya-mashina-samsung-ww65a4s21cx-ld-6-5-kg-1638522995055-md.webp",
+          "price": 4580
+        },
+        {
+          "id": 320202066,
+          "title": "Электрическая плита Gefest ЭП Н Д 6140-03",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2400/elektricheskaya-plita-gefest-ep-n-d-6140-03-1638362636608-md.webp",
+          "price": 3984
+        },
+        {
+          "id": 4511888555097,
+          "title": "Микроволновая печь Samsung ME88SUG/BW",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2288/mikrovolnovaya-pech-samsung-me88sug-bw-1638258765529-md.webp",
+          "price": 1226
+        },
+        {
+          "id": 43450901,
+          "title": "Кондиционер Gree Fairy GWH24ACD-K3NNA4A, 24 K",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4671/kondicioner-gree-fairy-gwh24acd-k3nna4a-24-k-1648541679044-md.webp",
+          "price": 10008
+        },
+        {
+          "id": 67010264,
+          "title": "Кондиционер LG Dual Cool Inverter/24CGH, 24 K",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4668/kondicioner-lg-dual-cool-inverter-24cgh-24-k-1648535904601-md.webp",
+          "price": 9472
+        },
+        {
+          "id": 32223306,
+          "title": "Кондиционер LG Dual Cool Inverter/18CGH, 18 K",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4666/kondicioner-lg-dual-cool-inverter-18cgh-18-k-1648535915039-md.webp",
+          "price": 8248
+        },
+        {
+          "id": 14996061,
+          "title": "Пылесос Техномир TН-1712",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4651/pylesos-tehnomir-tn-1712-1648446604426-md.webp",
+          "price": 1028
+        },
+        {
+          "id": 499988,
+          "title": "Пылесос Техномир TH1713",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4652/pylesos-tehnomir-th1713-1648447573466-md.webp",
+          "price": 1038
+        },
+        {
+          "id": 14040185,
+          "title": "Пылесос Daewoo RC G-110",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4582/pylesos-daewoo-rc-g-110-1647511428927-md.webp",
+          "price": 637
+        },
+        {
+          "id": 300286,
+          "title": "Утюг Philips GC1750/20",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4595/utyug-philips-gc1750-20-1647586762252-md.webp",
+          "price": 759
+        },
+        {
+          "id": 14331,
+          "title": "Утюг Philips GC4939/00",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4598/utyug-philips-gc4939-00-1647598595429-md.webp",
+          "price": 1897
+        },
+        {
+          "id": 488881,
+          "title": "Утюг Philips GC5039/30",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4609/utyug-philips-gc5039-30-1647673898021-md.webp",
+          "price": 2189
+        },
+        {
+          "id": 480016123,
+          "title": "Микроволновая печь Artel 23MX39",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5168/mikrovolnovaya-pech-artel-23mx39-1650870195407-md.webp",
+          "price": 1549
+        },
+        {
+          "id": 10090102987,
+          "title": "Холодильник Beko RCSK 310M20 S",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1351/holodilnik-beko-rcsk-310m20-s-1636530715411-md.webp",
+          "price": 4823
+        }
+      ]
+    },
+    {
+      "id": 203040,
+      "title": "Наушники",
+      "images": "https://www.meleon.ru/upload/iblock/460/ep0078b-_1_.jpg",
+      "data": [
+        {
+          "id": 905321,
+          "title": "Беспроводные наушники JBL Tune 710BT, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5120/besprovodnye-naushniki-jbl-tune-710bt-chernyy-1650540270615-xl.webp",
+          "price": 950
+        },
+        {
+          "id": 4353599233424,
+          "title": "Беспроводные наушники Xiaomi Redmi AirDots 2S, чёрные",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1446/besprovodnye-naushniki-xiaomi-redmi-airdots-2s-chernye-1636970343065-xl.webp",
+          "price": 310
+        },
+        {
+          "id": 85753,
+          "title": "Беспроводные наушники JBL Live 660NC, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5131/besprovodnye-naushniki-jbl-live-660nc-siniy-1650544329270-md.webp",
+          "price": 1480
+        },
+        {
+          "id": 132,
+          "title": "Беспроводные наушники Hoco W33, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4747/besprovodnye-naushniki-hoco-w33-chernyy-1648828014677-md.webp",
+          "price": 340
+        },
+        {
+          "id": 1578655252,
+          "title": "Беспроводные наушники Xiaomi Buds 3T Pro, белые",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10378/besprovodnye-naushniki-xiaomi-buds-3t-pro-belye-1669183256110-md.webp",
+          "price": 1350
+        },
+        {
+          "id": 33550,
+          "title": "Беспроводные TWS наушники QCY T17, голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14663/besprovodnye-naushniki-qcy-t17-goluboy-1685202168646-md.webp",
+          "price": 670
+        },
+        {
+          "id": 4812323,
+          "title": "Беспроводные наушники Baseus Bowie H1i, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/16727/besprovodnye-naushniki-baseus-bowie-h1i-chernyy-1690350375447-md.webp",
+          "price": 630
+        },
+        {
+          "id": 164325,
+          "title": "Беспроводные наушники Xiaomi Mi True WirelessEarbuds, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1403/besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-2-chernyy-1684412896384-md.webp",
+          "price": 244
+        },
+        {
+          "id": 104345987,
+          "title": "Беспроводные наушники JBL Tune 520BT, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19358/besprovodnye-naushniki-jbl-tune-520bt-siniy-1700632369357-md.webp",
+          "price": 770
+        },
+        {
+          "id": 845640242,
+          "title": "Проводные наушники Hoco M1 Pro, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/20028/naushniki-hoco-m1-pro-chernyy-1703672002480-md.webp",
+          "price": 60
+        },
+        {
+          "id": 659765,
+          "title": "Наушники Xiaomi Mi In-Ear Headphones Basic",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1457/naushniki-xiaomi-mi-in-ear-headphones-basic-1637041779077-md.webp",
+          "price": 99
+        },
+        {
+          "id": 324086,
+          "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp",
+          "price": 550
+        },
+        {
+          "id": 1774,
+          "title": "Беспроводные наушники Xiaomi Redmi Buds 3 Youth Edition, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3942/besprovodnye-naushniki-xiaomi-redmi-buds-3-youth-edition-chernyy-1643369425603-xl.webp",
+          "price": 350
+        },
+        {
+          "id": 14354361,
+          "title": "Беспроводные наушники Sony WH-1000XM5, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5973/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-1657275208277-md.webp",
+          "price": 3800
+        },
+        {
+          "id": 40301,
+          "title": "Беспроводные наушники Sony WH-1000XM5, белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5974/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-copy-1657275656301-md.webp",
+          "price": 3800
+        },
+        {
+          "id": 145689061,
+          "title": "Беспроводные наушники Hoco W25, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4743/besprovodnye-naushniki-hoco-w25-chernyy-1648826095316-md.webp",
+          "price": 220
+        },
+        {
+          "id": 1487235,
+          "title": "Беспроводные наушники Remax TWS-10i metal, оранжевый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12308/besprovodnye-naushniki-remax-tws-10i-metal-oranzhevyy-1677234075208-md.webp",
+          "price": 169
+        },
+        {
+          "id": 143361,
+          "title": "Беспроводные наушники E12, сиреневый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10410/besprovodnye-naushniki-e12-sirenevyy-1669202695925-md.webp",
+          "price": 176
+        },
+        {
+          "id": 409808,
+          "title": "Беспроводные наушники P9, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5796/besprovodnye-naushniki-p9-serebristyy-copy-1655376947054-md.webp",
+          "price": 68
+        },
+        {
+          "id": 65976534,
+          "title": "Беспроводные наушники QCY T17S",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6159/besprovodnye-naushniki-qcy-t17s-1659514993388-md.webp",
+          "price": 269
+        },
+        {
+          "id": 32403486,
+          "title": "Наушники Fantech WH01",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6426/naushniki-fantech-wh01-1662008186751-md.webp",
+          "price": 558
+        },
+        {
+          "id": 32401286,
+          "title": "Беспроводные наушники Y08, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10428/besprovodnye-naushniki-y08-chernyy-1669263545687-md.webp",
+          "price": 97
+        },
+        {
+          "id": 95,
+          "title": "Подсознательные бедность и богатство",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19268/besprovodnye-naushniki-hoco-w46-bezhevyy-1700202574015-md.webp",
+          "price": 231
+        },
+        {
+          "id": 4412981,
+          "title": "Беспроводные наушники 560 ВТ, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10384/besprovodnye-naushniki-560-vt-siniy-1669188660376-md.webp",
+          "price": 176
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Телевизоры",
+      "images": "https://test.dastras.tj/store/thumbnails/1000/819/detailed/24/17,.png",
+      "data": [
+        {
+          "id": 5892091,
+          "title": "Телевизор LG UHD 4K 65UP7550PVG, 65 дюйм",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3604/televizor-lg-uhd-4k-65up7550pvg-65-dyuym-1639982526516-md.webp",
+          "price": 8997
+        },
+        {
+          "id": 4300054024,
+          "title": "Телевизор Samsung UE55TU8300U, 55 дюйм",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4296/televizor-samsung-ue65tu8300u-55-dyuym-1646138484672-md.webp",
+          "price": 4991
+        },
+        {
+          "id": 8875300,
+          "title": "Телевизор Samsung UE65TU7100UXRU, 65 дюйм",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5744/televizor-samsung-ue65tu7100uxru-65-dyuym-1654405655345-md.webp",
+          "price": 7200
+        },
+        {
+          "id": 22131924,
+          "title": "Телевизор TCL Android TV 55P615, 55 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4146/televizor-tcl-android-tv-55p615-55-dyuym-1644837888148-md.webp",
+          "price": 6499
+        },
+        {
+          "id": 90018072,
+          "title": "Холодильник Blesk BL-121ZS (S), 93 л",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4295/televizor-samsung-ue65tu8300u-55-dyuym-1646138153276-md.webp",
+          "price": 9686
+        },
+        {
+          "id": 9880435,
+          "title": "Телевизор Samsung UE55AU8000UXCE, 55 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5937/televizor-samsung-ue55au8000uxce-55-dyuym-1656932382095-md.webp",
+          "price": 4846
+        },
+        {
+          "id": 161275,
+          "title": "Телевизор Samsung UE82TU8000UXCE, 82 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5953/televizor-samsung-ue82tu8000uxce-82-dyuym-1657009145455-md.webp",
+          "price": 19000
+        },
+        {
+          "id": 109010297,
+          "title": "Телевизор Premier 43PRM600, 43 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8115/televizor-premier-43prm600-43-dyuym-1664945547029-md.webp",
+          "price": 3375
+        },
+        {
+          "id": 8154542,
+          "title": "Телевизор LG 43LH547V, 43 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1182/televizor-lg-43lh547v-1636185518685-md.webp",
+          "price": 5418
+        },
+        {
+          "id": 34150,
+          "title": "Телевизор Samsung UE55NU7300UXCE, 54.6 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1165/televizor-samsung-ue55nu7300uxce-1637211875016-md.webp",
+          "price": 12490
+        },
+        {
+          "id": 32020032066,
+          "title": "Телевизор Artel 43AF90G, 43 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1184/televizor-artel-43af90g-109-sm-1636185953320-md.webp",
+          "price": 3119
+        },
+        {
+          "id": 4511885597,
+          "title": "Телевизор LG 55UM7300PLB 55 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1076/televizor-lg-55um7300plb-55-dyuym-1637211096532-md.webp",
+          "price": 8439
+        },
+        {
+          "id": 4345901,
+          "title": "Телевизор Samsung UE55NU7500UXCE, 55 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1052/televizor-samsung-ue55nu7500uxce-1636028006522-md.webp",
+          "price": 12619
+        },
+        {
+          "id": 670100264,
+          "title": "Телевизор Artel 65AU90GS Smart, 65 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5077/televizor-artel-65au90gs-smart-65-dyuym-1650430553737-md.webp",
+          "price": 12596
+        },
+        {
+          "id": 321323306,
+          "title": "Телевизор LG 75NAN0816PA, 75 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8465/televizor-lg-75nan0816pa-75-dyuym-1665647079674-md.webp",
+          "price": 22209
+        },
+        {
+          "id": 149960961,
+          "title": "Телевизор Samsung UE75AU9070UXCE, 75 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/9777/televizor-samsung-ue75au9070uxce-1668053677205-md.webp",
+          "price": 19875
+        },
+        {
+          "id": 4999838,
+          "title": "Телевизор Samsung QLED UHD 4K Smart TV QE55Q80AAUXCE, 55 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11985/televizor-samsung-qled-uhd-4k-smart-tv-qe55q80aauxce-55-dyuym-1676107074451-md.webp",
+          "price": 11983
+        },
+        {
+          "id": 1440185,
+          "title": "Телевизор LG OLED UHD 4K Smart TV OLED65G1PVA IDN, 65 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11987/televizor-lg-oled-uhd-4k-smart-tv-oled65g1pva-idn-65-dyuym-1676108538802-md.webp",
+          "price": 23497
+        },
+        {
+          "id": 48888971,
+          "title": "Телевизор Artel TV LED Smart AU90GA, 86 дюйм",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10266/televizor-artel-tv-led-smart-au90ga-86-dyuym-1668659573772-md.webp",
+          "price": 29688
+        },
+        {
+          "id": 14010331,
+          "title": "Телевизор Artel TV UA50H3401 AndroidTV, 50 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18550/televizor-artel-tv-ua50h3401-androidtv-50-dyuym-1697794412364-md.webp",
+          "price": 4689
+        },
+        {
+          "id": 23123,
+          "title": "Телевизор Artel A9000, 49 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5061/televizor-artel-a9000-49-dyuym-1650365507152-md.webp",
+          "price": 5100
+        },
+        {
+          "id": 60000005,
+          "title": "Телевизор Eurolux 50",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13418/televizor-eurolux-50-eu-led-43-ast-dn4s-1681120197375-md.webp",
+          "price": 2332
+        },
+        {
+          "id": 13122343,
+          "title": "Телевизор TCL 32S6500",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1032/televizor-tcl-32s6500-1636017755253-md.webp",
+          "price": 1976
+        },
+        {
+          "id": 3001286,
+          "title": "Телевизор Artel 9100, 49 дюйм.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5082/televizor-artel-9100-49-dyuym-1650433158784-md.webp",
+          "price": 3099
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ноутбуки",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzX8Hge1ZO9IybaRc7EKr8kvLvmAzxuDK3YQ&usqp=CAU",
+      "data": [
+        {
+          "id": 132435,
+          "title": "Ноутбук Acer Aspire 3 A315-56-594W (NX.A0TAA.005) Intel Core i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2518/noutbuk-acer-aspire-3-a315-56-594w-nx-a0taa-005-intel-core-i5-1035g1-15-6-1920x1080-8-gb-256-gb-1638880429315-md.webp",
+          "price": 8250,
+          "brand": "Acer"
+        },
+        {
+          "id": 5321,
+          "title": "Ноутбук HP 15-dw3005wm (4J0V8UA) Intel Core-i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3718/noutbuk-hp-15-dw3005wm-4j0v8ua-intel-core-i5-1135g7-15-6-1920x1080-8-gb-512-gb-1641199704770-md.webp",
+          "price": 6501,
+          "brand": "Victus"
+        },
+        {
+          "id": 435333424,
+          "title": "Ноутбук Asus TUF516PE-AB73 (90NR0641-M02000) Intel Core i7",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4525/noutbuk-asus-tuf516pe-ab73-90nr0641-m02000-intel-core-i7-11370h-nvidia-geforce-rtx-3050ti-15-6-1920x1080-8-gb-512-gb-1647264368993-md.webp",
+          "price": 14520,
+          "brand": "Acer"
+        },
+        {
+          "id": 85432753,
+          "title": "Ноутбук Lenovo V15-IIL 82C5 (82C500FYRU) Intel Core i7",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2141/noutbuk-lenovo-v15-iil-82c5-82c500fyru-intel-core-i7-15-6-1920x1080-8-gb-256gb-1638172158599-md.webp",
+          "price": 8569,
+          "brand": "Lenovo"
+        },
+        {
+          "id": 132124,
+          "title": "Ноутбук Acer Spin 3 SP313-51N-39ME (NX.A6CER.005) Intel Core i3",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4172/noutbuk-acer-spin-3-sp313-51n-39me-nx-a6cer-005-intel-core-i3-1115g4-13-3-1920x1200-8-gb-512-gb-1645435219842-md.webp",
+          "price": 8580,
+          "brand": "Acer"
+        },
+        {
+          "id": 15252,
+          "title": "Ноутбук Acer Nitro 5 AN515-57-919C (NH.QEUSA.009) Intel Core i9",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6261/noutbuk-acer-nitro-5-an515-57-919c-nh-qeusa-009-intel-core-i9-11900h-nvidia-geforce-rtx-3060-15-6-1920x1080-16-gb-512-gb-1661257721835-md.webp",
+          "price": 16500,
+          "brand": "Acer"
+        },
+        {
+          "id": 909435,
+          "title": "Ноутбук HP 16-d0023dx (4U097UA) Intel Core i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5754/noutbuk-hp-16-d0023dx-4u097ua-intel-core-i5-11400h-nvidia-geforce-rtx-3050-16-1-1920x1080-8-gb-256-gb-1654872357138-md.webp",
+          "price": 8701,
+          "brand": "Victus"
+        },
+        {
+          "id": 1632575,
+          "title": "Ноутбук Acer Nitro 5 AN515-57-536Q (NH.QEKAA.001) Intel Core i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4168/noutbuk-acer-nitro-5-an515-57-536q-nh-qekaa-001-intel-core-i5-11400h-nvidia-geforce-gtx-1650-15-6-1920x1080-8-gb-256-gb-1645174083058-md.webp",
+          "price": 15900,
+          "brand": "Acer"
+        },
+        {
+          "id": 1043987,
+          "title": "Ноутбук Lenovo IdeaPad S145-15IGM (81MX005JUE) Intel Celeron ",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2052/noutbuk-lenovo-ideapad-s145-15igm-intel-celeron-n4000-15-6-1920x1080-4-gb-1024-gb-1638026624643-md.webp",
+          "price": 3703,
+          "brand": "Lenovo"
+        },
+        {
+          "id": 81678942,
+          "title": "Ноутбук Apple MacBook Pro 16 2021 (MK1E3) Apple M1",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4317/noutbuk-apple-macbook-pro-16-2021-mk1f3-apple-m1-16-2-3456x2234-16-gb-512-gb-serebristyy-1646196068143-xl.webp",
+          "price": 27500,
+          "brand": "Apple"
+        },
+        {
+          "id": 346450,
+          "title": "Ноутбук Apple MacBook Pro 16 2023 (MNW83) Apple M2 Pro/16.",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12029/noutbuk-apple-macbook-pro-16-2023-mnw83-apple-m2-pro-16-2-3456-x-2234-16gb-512gb-1676286330261-md.webp",
+          "price": 29200,
+          "brand": "Apple"
+        },
+        {
+          "id": 34354566,
+          "title": "Ноутбук Apple MacBook Air 13 2022 (MLY43) ",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842843090-md.webp",
+          "price": 18000,
+          "brand": "Apple"
+        },
+        {
+          "id": 45645097,
+          "title": "Ноутбук Acer Extensa 15 EX215-54G-53BT  Intel Core i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6218/noutbuk-acer-extensa-15-ex215-54g-53bt-nx-eghem-004-intel-core-i5-1135g7-nvidia-geforce-mx350-15-6-1920x1080-4-gb-1000-gb-1660824490176-md.webp",
+          "price": 6996,
+          "brand": "Acer"
+        },
+        {
+          "id": 434501,
+          "title": "Ноутбук Asus TUF Dash 15 (2022) (B09RMH9B6F) Intel Core i7",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6902/noutbuk-asus-tuf-dash-15-2022-b09rmh9b6f-intel-core-i7-extreme-15-6-1920-h-1080-6gb-512gb-1663674166400-md.webp",
+          "price": 15895,
+          "brand": "Acer"
+        },
+        {
+          "id": 6764,
+          "title": "Ноутбук Victus 16-d1015nia (6K2E6EA) Intel Core i7",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8888/noutbuk-victus-16-d1015nia-6k2e6ea-intel-core-i7-12700h-16-1-1920-x-1080-ddr5-16gb-1tb-copy-1666258014314-md.webp",
+          "price": 12000,
+          "brand": "Victus"
+        },
+        {
+          "id": 3206,
+          "title": "Ноутбук Asus X515E-BR181T Intel Core i3",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/9096/noutbuk-asus-x515e-br181t-intel-core-i3-1115g4-15-6-1920-x-1080-4gb-128-gb-1666756828537-md.webp",
+          "price": 6055,
+          "brand": "Acer"
+        },
+        {
+          "id": 149061,
+          "title": "Ноутбук Apple MacBook Pro 14 2023 (MPHE3) Apple M2 Pro/14.2",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12027/noutbuk-apple-macbook-pro-14-2023-mphe3-apple-m2-pro-14-2-3024x1964-16gb-512gb-1676285501453-md.webp",
+          "price": 24200,
+          "brand": "Apple"
+        },
+        {
+          "id": 4988,
+          "title": "Ноутбук Apple MacBook Pro 14 2021 (MKGP3) Apple M1 Pro/14.2",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4323/noutbuk-apple-macbook-pro-14-2021-mkgp3-apple-m1-pro-14-2-3024x1964-16-gb-512-gb-serebristyy-1646198418110-md.webp",
+          "price": 19989,
+          "brand": "Apple"
+        },
+        {
+          "id": 1485,
+          "title": "Ноутбук Apple MacBook Pro 13 2022 (MNEQ3LL/A) Apple M2/13.3",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18330/noutbuk-apple-macbook-pro-13-2022-mneq3ll-a-apple-m2-13-3-2560x1600-8-gb-512-gb-serebristyy-1696589796530-md.webp",
+          "price": 16500,
+          "brand": "Apple"
+        },
+        {
+          "id": 324286,
+          "title": "Ноутбук HP Victus Gaming Laptop 15-fb1013dx AMD Ryzen™ 5 ",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19628/noutbuk-hp-victus-gaming-laptop-15-fb1013dx-845a2ua-amd-ryzen-5-7535hs-16-1920x1080-gb-512-gb-ssd-1702290255048-md.webp",
+          "price": 7000,
+          "brand": "Victus"
+        },
+        {
+          "id": 143361,
+          "title": "Ноутбук Asus Rog Strix G16 G614JV-AS73 / Intel Core i7-13650H/16",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13655/noutbuk-asus-rog-strix-g16-g614jv-as73-intel-core-i7-13650h-16-1920x1200-16-gb-512-gb-1681893769571-md.webp",
+          "price": 24761,
+          "brand": "Acer"
+        },
+        {
+          "id": 489881,
+          "title": "Ноутбук MSI Sword 15 A11UD-001US (9S7-158213-001) Intel Core i7",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4529/noutbuk-msi-sword-15-a11ud-001us-9s7-158213-001-intel-core-i7-11800h-nvidia-geforce-gtx-rtx-3050-ti-15-6-1920x1080-8-gb-512-gb-1647321608843-md.webp",
+          "price": 12000,
+          "brand": "Victus"
+        },
+        {
+          "id": 4887923,
+          "title": "Ноутбук Lenovo IdeaPad 3 15IML05 81WB (81WB0100UE) Intel Core i3",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4678/noutbuk-lenovo-ideapad-3-15iml05-81wb-81wb0100ue-intel-core-i3-10110u-15-6-1920x1080-4-gb-1000-gb-1648567972216-md.webp",
+          "price": 4870,
+          "brand": "Lenovo"
+        },
+        {
+          "id": 67890765,
+          "title": "Ноутбук HP Pavilion Gaming 15-dk2087ne (594S4EA) Intel Core i5",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6259/noutbuk-hp-pavilion-gaming-15-dk2087ne-594s4ea-intel-core-i5-11300h-nvidia-geforce-gtx-1650-15-6-1920x1080-8-gb-1000-gb-256-gb-ssd-1661256338327-md.webp",
+          "price": 10230,
+          "brand": "Victus"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Книги",
+      "images": "https://images.prom.ua/1029711013_w600_h600_elementy-knigi-iz.jpg",
+      "data": [
+        {
+          "id": 9,
+          "title": "Моя жизнь, мои достижения (подарочное издание)",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15170/moya-zhizn-moi-dostizheniya-1686651725276-xxl.webp",
+          "price": 244,
+          "brand": "биография"
+        },
+        {
+          "id": 12,
+          "title": "Amazon. Как изменить мир по своему сценарию",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15388/amazon-kak-izmenit-mir-po-svoemu-scenariyu-1687170700770-xxl.webp",
+          "price": 180,
+          "brand": "бизнес"
+        },
+        {
+          "id": 10,
+          "title": "Цель: процесс непрерывного улучшения",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14253/cel-process-nepreryvnogo-uluchsheniya-1684490290308-xxl.webp",
+          "price": 159,
+          "brand": "бизнес"
+        },
+        {
+          "id": 85,
+          "title": "Безграничье. Прокачай мозг, запоминай быстрее",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15289/bezgraniche-prokachay-mozg-zapominay-bystree-1686903047447-md.webp",
+          "price": 146,
+          "brand": "бизнес"
+        },
+        {
+          "id": 95,
+          "title": "Подсознательные бедность и богатство",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15235/podsoznatelnye-bednost-i-bogatstvo-1686820376903-xl.webp",
+          "price": 231,
+          "brand": "бизнес"
+        },
+        {
+          "id": 145,
+          "title": "Стань самым умным и самым богатым. Часть 2",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15380/stan-samym-umnym-i-samym-bogatym-chast-2-1687168075674-xl.webp",
+          "price": 207,
+          "brand": "бизнес"
+        },
+        {
+          "id": 10987,
+          "title": "Из третьего мира - в первый. История Сингапура 1965-2000",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21286/iz-tretego-mira-v-pervyy-istoriya-singapura-1965-2000-1708665421044-xl.webp",
+          "price": 382,
+          "brand": "биография"
+        },
+        {
+          "id": 221,
+          "title": "Гравити Фолз. Дневник 3 (Ультрафиолетовая краска)",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15171/graviti-folz-dnevnik-3-ultrafioletovaya-kraska-1686652049928-md.webp",
+          "price": 315,
+          "brand": "биография"
+        },
+        {
+          "id": 6502,
+          "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15232/ilon-mask-tesla-spacex-i-doroga-v-budushchee-1686819640585-xl.webp",
+          "price": 231,
+          "brand": "биография"
+        },
+        {
+          "id": 40301,
+          "title": "Технический анализ. Полный курс",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15435/tehnicheskiy-analiz-polnyy-kurs-1687240959184-xl.webp",
+          "price": 345,
+          "brand": "бизнес"
+        },
+        {
+          "id": 30909,
+          "title": "Ман ва пул",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15061/man-va-pul-1686284447693-xl.webp",
+          "price": 142,
+          "brand": "бизнес"
+        },
+        {
+          "id": 132,
+          "title": "Гений общения. Как им стать?",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15296/geniy-obshcheniya-kak-im-stat-1686905522907-md.webp",
+          "color": "76",
+          "price": 190,
+          "brand": "бизнес"
+        },
+        {
+          "id": 15,
+          "title": "Я вижу, о чём вы думаете",
+          "image": "https://cv4.litres.ru/pub/c/cover_max1500/11249643.jpg",
+          "price": 138,
+          "brand": "бизнес"
+        },
+        {
+          "id": 30,
+          "title": "Богатый папа и бедный папа (М)",
+          "image": "https://allbook.by/wp-content/uploads/2016/12/p_2_7_7_7_2777-opasnoe-nasledstvo.jpg",
+          "price": 67,
+          "brand": "биография"
+        },
+        {
+          "id": 481,
+          "title": "Правила Брэнсона",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15414/pravila-brensona-1687235213668-xl.webp",
+          "price": 231,
+          "brand": "Правила Брэнсона"
+        },
+        {
+          "id": 10831,
+          "title": "Война и мир",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21305/voyna-i-mir-komplekt-iz-2-uh-knig-1708682168781-xl.webp",
+          "price": 121,
+          "brand": "биография"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Смартфоны",
+      "images": "https://i.citrus.world/uploads/shop/1/6/1674814317-s23-ultra-pink-11.jpg",
+      "data": [
+        {
+          "id": 30089,
+          "title": "Samsung Galaxy S20 FE 5G 6/128 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1048/samsung-galaxy-s20-fe-5g-6-128-gb-siniy-1636527094801-md.webp",
+          "price": 4899,
+          "brand": "Samsung"
+        },
+        {
+          "id": 489786,
+          "title": "iPhone 13 128 GB (nano-SIM+eSIM), белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-belyy-nano-sim-esim-1635436454279-md.webp",
+          "price": 7500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 5050505050,
+          "title": "Samsung Galaxy Z Flip3 5G 8/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1640236439700-md.webp",
+          "price": 7199,
+          "brand": "Samsung"
+        },
+        {
+          "id": 7080604,
+          "title": "Samsung Galaxy M32 5G 6/128 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1640693935038-md.webp",
+          "price": 2230,
+          "brand": "Samsung"
+        },
+        {
+          "id": 80102030509,
+          "title": "Xiaomi Redmi Note 11 6/128 GB (Global version), черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3977/xiaomi-redmi-note-11-6-128-gb-global-version-chernyy-1643867281406-md.webp",
+          "price": 2240,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 90990888,
+          "title": "Samsung Galaxy A13 4/64 GB, голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5125/samsung-galaxy-a13-4-128-gb-goluboy-copy-1650541269094-md.webp",
+          "price": 1750,
+          "brand": "Samsung"
+        },
+        {
+          "id": 1121,
+          "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+          "price": 14780,
+          "brand": "Samsung"
+        },
+        {
+          "id": 121314,
+          "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6691/iphone-14-128-gb-nano-sim-nano-sim-goluboy-1663241042054-md.webp",
+          "price": 8500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 114293,
+          "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6702/iphone-14-128-gb-nano-sim-nano-sim-chernyy-1663240483615-md.webp",
+          "price": 8500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 11350911,
+          "title": "iPhone 13 Pro Max 256 GB (nano-SIM+eSIM), чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/228/iphone-13-pro-max-256-gb-chernyy-nano-sim-esim-1635436628307-md.webp",
+          "price": 11990,
+          "brand": "iPhone"
+        },
+        {
+          "id": 145586778906,
+          "title": "iPhone 13 Pro Max 128 GB (nano-SIM+nano-SIM), голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/224/iphone-13-pro-max-128-gb-goluboy-nano-sim-nano-sim-1635436615954-md.webp",
+          "price": 11999,
+          "brand": "iPhone"
+        },
+        {
+          "id": 181732,
+          "title": "iPhone 15 Pro Max 512 GB (nano-SIM+eSIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17947/iphone-15-pro-max-512-gb-nano-sim-esim-seryy-1695011351694-md.webp",
+          "price": 18000,
+          "brand": "iPhone"
+        },
+        {
+          "id": 11800229,
+          "title": "iPhone 15 Pro Max 1 TB (nano-SIM+eSIM), синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011527672-md.webp",
+          "price": 29995,
+          "brand": "iPhone"
+        },
+        {
+          "id": 201065,
+          "title": "Планшет Samsung Galaxy Tab S9 Ultra, 12/256GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088134989-md.webp",
+          "price": 16303,
+          "brand": "Samsung"
+        },
+        {
+          "id": 6910202,
+          "title": "Планшет Apple iPad Pro 12.9 (2021) Wi-Fi + Cellular, 8/512 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3654/planshet-apple-ipad-pro-12-9-2021-wi-fi-8-512-gb-seryy-1640591075938-md.webp",
+          "price": 16100,
+          "brand": "iPhone"
+        },
+        {
+          "id": 222331,
+          "title": "Samsung Galaxy S24 Ultra 12/512 GB, фиолетовый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819089781-md.webp",
+          "price": 16545,
+          "brand": "Samsung"
+        },
+        {
+          "id": 27653243298092,
+          "title": "Samsung Galaxy S24 Ultra 12/512 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21039/samsung-galaxy-s24-ultra-12-512-gb-siniy-1707821079961-md.webp",
+          "price": 16545,
+          "brand": "Samsung"
+        },
+        {
+          "id": 230075,
+          "title": "Samsung Galaxy A54 5G 8/256 GB, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13004/samsung-galaxy-a54-5g-8-256-gb-chernyy-1679899353594-md.webp",
+          "price": 3430,
+          "brand": "Samsung"
+        },
+        {
+          "id": 22424244,
+          "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+          "price": 14780,
+          "brand": "Samsung"
+        },
+        {
+          "id": 226549995,
+          "title": "Samsung Galaxy Z Fold5 12/512 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17286/samsung-galaxy-z-fold5-12-512-gb-chernyy-1693037832487-md.webp",
+          "price": 13900,
+          "brand": "Samsung"
+        },
+        {
+          "id": 2578622343574,
+          "title": "iPhone 15 Pro Max 1 TB (eSIM+eSIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17969/iphone-15-pro-max-1-tb-esim-esim-seryy-1695011967370-md.webp",
+          "price": 20995,
+          "brand": "iPhone"
+        },
+        {
+          "id": 261122009,
+          "title": "iPhone 15 Pro Max 256 GB (nano-SIM+nano-SIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17798/iphone-15-pro-max-256-gb-nano-sim-nano-sim-seryy-1695010220752-md.webp",
+          "price": 13328,
+          "brand": "iPhone"
+        },
+        {
+          "id": 245327,
+          "title": "Xiaomi Poco F5 Pro 12/512 GB, белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18369/xiaomi-poco-f5-pro-12-512-gb-belyy-1697001109175-md.webp",
+          "price": 8000,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 22030409,
+          "title": "Xiaomi 13T 12/256 GB Global, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18525/xiaomi-13t-12-256-gb-global-chernyy-1697694782445-md.webp",
+          "price": 5599,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 30409080,
+          "title": "Xiaomi 13T 12/256 GB Global, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18621/xiaomi-13t-12-256-gb-global-siniy-1698144374925-md.webp",
+          "price": 6050,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 32211881,
+          "title": "Планшет Apple iPad Pro 11 (2022), 256 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11690/planshet-apple-ipad-pro-11-2022-256-gb-seryy-1674560768738-md.webp",
+          "price": 14365,
+          "brand": "iPhone"
+        },
+        {
+          "id": 112234,
+          "title": "Xiaomi 13 Lite 8/128 ГБ, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12511/smartfon-xiaomi-13-lite-8-128-gb-chernyy-1677819261427-md.webp",
+          "price": 4272,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 298298,
+          "title": "Xiaomi 13 Pro 12/256 ГБ, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13924/xiaomi-13-pro-12-256-gb-chernyy-1683179472503-md.webp",
+          "price": 11500,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 117403,
+          "title": "Xiaomi 12T Pro 8/128 GB, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8414/xiaomi-12t-pro-8-128gb-chernyy-1665493658606-md.webp",
+          "price": 8800,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 101112297,
+          "title": "Xiaomi 12X 8/128 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5141/xiaomi-12x-8-128-gb-seryy-1650603586088-md.webp",
+          "price": 3950,
+          "brand": "Xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Спортивное питание",
+      "images": "https://tri.by/wp-content/uploads/2021/11/sp-1024x876.jpg",
+      "data": []
+    },
+    {
+      "id": 10,
+      "title": "Камера",
+      "images": "https://market.marvel.ru/upload/resize_cache/webp/iblock/3be/3beda868d098f49f7ed0d0aff81afe94.webp",
+      "data": [
+        {
+          "id": 17010274,
+          "title": "Аналоговая камера Uniarch 5МП (AHD/CVI/TVI/CVBS)",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/3be/3beda868d098f49f7ed0d0aff81afe94.webp",
+          "price": 433
+        },
+        {
+          "id": 90509321,
+          "title": "Аналоговая камера Uniarch 5МП (AHD/CVI/TVI/CVBS)",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/6d0/400_400_140cd750bba9870f18aada2478b24840a/6d0d80043d6698f8fb2802ea2b80cb0e.webp",
+          "price": 483
+        },
+        {
+          "id": 43912233424,
+          "title": "IP-камера Uniarch 2МП уличная купольная антивандальная",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/37b/400_400_140cd750bba9870f18aada2478b24840a/37b4c1fcb0e9a31d0bbeec46aa3ef2fb.webp",
+          "price": 617
+        },
+        {
+          "id": 8572153,
+          "title": "IP-камера Uniarch 4МП уличная цилиндрическая ",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/016/400_400_140cd750bba9870f18aada2478b24840a/01608727a9e0cef810be2db74837a317.webp",
+          "price": 642
+        },
+        {
+          "id": 131232,
+          "title": "IP-камера Uniarch 4МП уличная купольная антивандальная",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/ce3/400_400_140cd750bba9870f18aada2478b24840a/ce3942528e556389c30cddf6b836ce0a.webp",
+          "price": 741
+        },
+        {
+          "id": 331122550,
+          "title": "IP КАМЕРА ВИДЕОНАБЛЮДЕНИЯ УЛИЧНАЯ ПОВОРОТНАЯ 1080P",
+          "image": "https://msv77.ru/image/cache/data/ip200-ptz-1400x1400_0.jpg",
+          "price": 3616
+        },
+        {
+          "id": 941145,
+          "title": "КОМПЛЕКТ ВИДЕОНАБЛЮДЕНИЯ НА 4 КАМЕРЫ ПО 2 МЕГАПИКСЕЛЯ",
+          "image": "https://msv77.ru/image/cache/data/1-komplekts-2020/ahd200-fo20-N-4-1400x1400_0.jpg",
+          "price": 1396
+        },
+        {
+          "id": 164325,
+          "title": "IP-камера Dahua DH-IPC-HDBW3241EP-AS-0280B-S2",
+          "image": "https://static.eldorado.ru/img1/p/b/942234002.jpg/resize/468x468/",
+          "price": 1799
+        },
+        {
+          "id": 4865252,
+          "title": "Аналоговая камера Uniarch 2МП (AHD/CVI/TVI/CVBS) уличная купольная",
+          "image": "https://market.marvel.ru/upload/resize_cache/webp/iblock/798/400_400_140cd750bba9870f18aada2478b24840a/798c84bc92f5ce9976199b0f242b6874.webp",
+          "price": 325
+        },
+        {
+          "id": 4805633,
+          "title": "IP КОМПЛЕКТ ВИДЕОНАБЛЮДЕНИЯ ДЛЯ ПОМЕЩЕНИЯ НА 4 КАМЕРЫ FULL HD",
+          "image": "https://msv77.ru/image/cache/data/1_komplekt_2022/ip200-fi204-1400x1400_0.jpg",
+          "price": 2276
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Смартфоны",
+      "images": "https://istudio-shop.ru/a/istudio/files/multifile/2353/30069470bb1_11.webp",
+      "data": [
+        {
+          "id": 30089,
+          "title": "Samsung Galaxy S20 FE 5G 6/128 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1048/samsung-galaxy-s20-fe-5g-6-128-gb-siniy-1636527094801-md.webp",
+          "price": 4899,
+          "brand": "Samsung"
+        },
+        {
+          "id": 489786,
+          "title": "iPhone 13 128 GB (nano-SIM+eSIM), белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-belyy-nano-sim-esim-1635436454279-md.webp",
+          "price": 7500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 5050505050,
+          "title": "Samsung Galaxy Z Flip3 5G 8/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1640236439700-md.webp",
+          "price": 7199,
+          "brand": "Samsung"
+        },
+        {
+          "id": 7080604,
+          "title": "Samsung Galaxy M32 5G 6/128 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1640693935038-md.webp",
+          "price": 2230,
+          "brand": "Samsung"
+        },
+        {
+          "id": 80102030509,
+          "title": "Xiaomi Redmi Note 11 6/128 GB (Global version), черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3977/xiaomi-redmi-note-11-6-128-gb-global-version-chernyy-1643867281406-md.webp",
+          "price": 2240,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 90990888,
+          "title": "Samsung Galaxy A13 4/64 GB, голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5125/samsung-galaxy-a13-4-128-gb-goluboy-copy-1650541269094-md.webp",
+          "price": 1750,
+          "brand": "Samsung"
+        },
+        {
+          "id": 1121,
+          "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+          "price": 14780,
+          "brand": "Samsung"
+        },
+        {
+          "id": 121314,
+          "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6691/iphone-14-128-gb-nano-sim-nano-sim-goluboy-1663241042054-md.webp",
+          "price": 8500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 114293,
+          "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6702/iphone-14-128-gb-nano-sim-nano-sim-chernyy-1663240483615-md.webp",
+          "price": 8500,
+          "brand": "iPhone"
+        },
+        {
+          "id": 11350911,
+          "title": "iPhone 13 Pro Max 256 GB (nano-SIM+eSIM), чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/228/iphone-13-pro-max-256-gb-chernyy-nano-sim-esim-1635436628307-md.webp",
+          "price": 11990,
+          "brand": "iPhone"
+        },
+        {
+          "id": 145586778906,
+          "title": "iPhone 13 Pro Max 128 GB (nano-SIM+nano-SIM), голубой",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/224/iphone-13-pro-max-128-gb-goluboy-nano-sim-nano-sim-1635436615954-md.webp",
+          "price": 11999,
+          "brand": "iPhone"
+        },
+        {
+          "id": 181732,
+          "title": "iPhone 15 Pro Max 512 GB (nano-SIM+eSIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17947/iphone-15-pro-max-512-gb-nano-sim-esim-seryy-1695011351694-md.webp",
+          "price": 18000,
+          "brand": "iPhone"
+        },
+        {
+          "id": 11800229,
+          "title": "iPhone 15 Pro Max 1 TB (nano-SIM+eSIM), синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011527672-md.webp",
+          "price": 29995,
+          "brand": "iPhone"
+        },
+        {
+          "id": 201065,
+          "title": "Планшет Samsung Galaxy Tab S9 Ultra, 12/256GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088134989-md.webp",
+          "price": 16303,
+          "brand": "Samsung"
+        },
+        {
+          "id": 6910202,
+          "title": "Планшет Apple iPad Pro 12.9 (2021) Wi-Fi + Cellular, 8/512 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3654/planshet-apple-ipad-pro-12-9-2021-wi-fi-8-512-gb-seryy-1640591075938-md.webp",
+          "price": 16100,
+          "brand": "iPhone"
+        },
+        {
+          "id": 222331,
+          "title": "Samsung Galaxy S24 Ultra 12/512 GB, фиолетовый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819089781-md.webp",
+          "price": 16545,
+          "brand": "Samsung"
+        },
+        {
+          "id": 27653243298092,
+          "title": "Samsung Galaxy S24 Ultra 12/512 GB, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21039/samsung-galaxy-s24-ultra-12-512-gb-siniy-1707821079961-md.webp",
+          "price": 16545,
+          "brand": "Samsung"
+        },
+        {
+          "id": 230075,
+          "title": "Samsung Galaxy A54 5G 8/256 GB, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13004/samsung-galaxy-a54-5g-8-256-gb-chernyy-1679899353594-md.webp",
+          "price": 3430,
+          "brand": "Samsung"
+        },
+        {
+          "id": 22424244,
+          "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+          "price": 14780,
+          "brand": "Samsung"
+        },
+        {
+          "id": 226549995,
+          "title": "Samsung Galaxy Z Fold5 12/512 GB, чёрный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17286/samsung-galaxy-z-fold5-12-512-gb-chernyy-1693037832487-md.webp",
+          "price": 13900,
+          "brand": "Samsung"
+        },
+        {
+          "id": 2578622343574,
+          "title": "iPhone 15 Pro Max 1 TB (eSIM+eSIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17969/iphone-15-pro-max-1-tb-esim-esim-seryy-1695011967370-md.webp",
+          "price": 20995,
+          "brand": "iPhone"
+        },
+        {
+          "id": 261122009,
+          "title": "iPhone 15 Pro Max 256 GB (nano-SIM+nano-SIM), серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17798/iphone-15-pro-max-256-gb-nano-sim-nano-sim-seryy-1695010220752-md.webp",
+          "price": 13328,
+          "brand": "iPhone"
+        },
+        {
+          "id": 245327,
+          "title": "Xiaomi Poco F5 Pro 12/512 GB, белый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18369/xiaomi-poco-f5-pro-12-512-gb-belyy-1697001109175-md.webp",
+          "price": 8000,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 22030409,
+          "title": "Xiaomi 13T 12/256 GB Global, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18525/xiaomi-13t-12-256-gb-global-chernyy-1697694782445-md.webp",
+          "price": 5599,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 30409080,
+          "title": "Xiaomi 13T 12/256 GB Global, синий",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18621/xiaomi-13t-12-256-gb-global-siniy-1698144374925-md.webp",
+          "price": 6050,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 32211881,
+          "title": "Планшет Apple iPad Pro 11 (2022), 256 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11690/planshet-apple-ipad-pro-11-2022-256-gb-seryy-1674560768738-md.webp",
+          "price": 14365,
+          "brand": "iPhone"
+        },
+        {
+          "id": 112234,
+          "title": "Xiaomi 13 Lite 8/128 ГБ, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12511/smartfon-xiaomi-13-lite-8-128-gb-chernyy-1677819261427-md.webp",
+          "price": 4272,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 298298,
+          "title": "Xiaomi 13 Pro 12/256 ГБ, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13924/xiaomi-13-pro-12-256-gb-chernyy-1683179472503-md.webp",
+          "price": 11500,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 117403,
+          "title": "Xiaomi 12T Pro 8/128 GB, черный",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8414/xiaomi-12t-pro-8-128gb-chernyy-1665493658606-md.webp",
+          "price": 8800,
+          "brand": "Xiaomi"
+        },
+        {
+          "id": 101112297,
+          "title": "Xiaomi 12X 8/128 GB, серый",
+          "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5141/xiaomi-12x-8-128-gb-seryy-1650603586088-md.webp",
+          "price": 3950,
+          "brand": "Xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Мелкая бытовая техника",
+      "images": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwsQCAkJCAkICQkIBwsICAgICA8KCwkLIB0iIiAdHxMkKDQsJCYxJx8fLT0tMTU3Ojo6Fx8/RDMtNyg5OisBCgoKDg0OGg8QFS0dGiItLS0rKystKy0tLSstKy03LS4tLSsrLSstKy8zKysrLDcrLTcrNystKzcrKzgrKysrK//AABEIAJYAxgMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYEBwECAwj/xABLEAABBAEBBQMHBwgFDQEAAAABAAIDBBEFBhITITFBUXEHFCJhgZGhIzJSscHh8CUzNEJTYnLRQ3N0ssMWJCdEZGWCkpOio8LiFf/EABgBAQEBAQEAAAAAAAAAAAAAAAABAwIE/8QAGxEBAQACAwEAAAAAAAAAAAAAAAECEQMhMRL/2gAMAwEAAhEDEQA/AN4oiICIiAiKN1fXaFRrH6peqUhJkRm1O2PieAQSSKsM8oGzpdut13TCT/tICsjHgtDmkOa5ocCDkEeKDuiIgIiICIiAiLxszsjifLKd1jGlzj2+5B7IqpNNM+bzmTO/j5ODPosj+j+PsUpRuFu6HkuhkAMTicuaEEui4BGOWCCOR71ygIiICIiAiIgIiICIiAqDf2k05+v29Iu1g6/ScDDHZqCXiQkA5aVflqzyiur1trdJ1WZkhxoF9k4gwJJA3G6Pe5BYy7T+E6R1CsWMaXuA09r3kfw7uSpTZDWYrulx3qsUsVSSWRlQys4bpIgcZ3ezoqHsttIbVp1S00AzVpn1nVpBhr2tJwQR3D7lsXZqtHFo+mwQNDYotMrsjaB2boQSaIsC1rNCJxZa1ChXeOrbFyOJw9hKDPRYVTVacx3al6lZdjOK1qOU+4FZqAiIgKEtuM9p7G4MGnuAOclstv8A+frPqWdq1ww1JZmgPk9GOCM/rzE4aPeVEVKlSbhV4rs0k+h3xJcFWd0Zfcxk747c5zhBgys1VsFLMOnS2XWt3UjHI+OJkGerQeecfapCBvOSI9D6bTk5aD6vH61IWoiY3tY7hvcxwZJgO3Hd+FFVoJYoK7bVjzqeJojntGIRcXPbu/jogkaFwjfil6xkhwC7VtYjktivEC7LXEvA5NUbcJHDss6tIZJjuUnpPBw50UcbHyuL3FuMuK6scypNERcuhERAREQEREBERAWotrtSid5RYIbTBPV03ZS8+xX68RpY5xHuW3VpN5B8scwdjHmRZ/4kGX5Pr2mm9Yiq6RWqzWKNgw2K9mxOYGgcwd8n3jCvHkz1DzjZXSJ3fPZSbWf4t9Fe+naHp9aO8/T9Njpvlge2Sdgb8qMHpz5D3KveQyTOyMA/Z3rDVRneVmawzZ54p2Jazp7DYZZYHFknCIdkZXzO/Td6R2LcT3cy50rZGknxwV9R+UiHf0GYfRnjd9n2r5snh3ZXjH6xSXQ6aFJJRv1tUhttZLRsNlYIonvEneD05Hp7V9SbF6vJd0Kjqc8YifdifNwx0a3eOF8t2v0GX+tA+C+nfJ3DubKaEz/ctV/vaCluxY0RFBWdeu/lWpXA3xRrv1KSMHm+U5awf3/gszSLXErMsPqmnNYaJJ68gbxWP9ZCocuoOtXtTtUrIicdVNbiGMSgRxndxj14+KtFC50BPYCgsTuig31KjL9ssnd55qEDHyV5LRfhjeWWx9ik45wR1UdqE1aO9TfJVfJbtl9OG3FVMhiZ19J/YEHEEgfG+J+GmUFrQSMl+M/jwUdo+qt33NY4h0byyWN3JzD4L0dNw7cuWl240ysa1u84+AVa2ia6HVnyQncMwFmJ3Zk9eS248frp5+XP47bVglDo2vH6wXoqzsdqomgLejsb24Tza/tCsyyymrpvjdzYiIooiIgIiICIiAtIWeXljm9dX/BW71ozUD/pgm/s3+ArBuFsua1kbzHYieMNHNno9v47R7aL5Cpo2bIB8r2MH/6tnm72K0CyRBPkjBifugDGBjvWnvJ3r7K+gmE7u+Lcrm9+OSg2bt/r8I0uStEXOfM5mXOjLQADnofBaLvMaXl2cZJON0lT2t606Z5y7kSoKR2UHg2GJ1aWEv3nl4kDPmF48Vu7ydbeaXJo+nULdyvRv0qkdKStakEQdujAIceR5ALRszR7uYK7ikLEL+QM0ON445vag+sGuBaHNILSAQQcgjxWFr13zfS71vOPNqUszf4gOS+fNgNstR03UqtF7p7mm2rDK7qLsyOiJ7WLcnlTn3dmrMY/1uWKt7M5+xBp/wAnE0fn8kVgHjyiSeCQyPADz15dD0WzBkPYRkdACOq1fpjZ2bjT6EcMofAHEOY49+Px2rZelXBLAx/zt87jstALJe7H2oJSrZdxm7xJ3ckAjAaPBZV+7YbAHUqwtymaNhiM7YQI88zk9yjONzLYWBzsku3cNaD28+9dHvsPqN8yuRMmL2kWpa++x7M8/R+CDvrj927BIDjiMewkd6gNoZuLSp2jjiQyyVZiOwqU2kf8lXk+hZaPYorT4o53W9Ome6Nk1iN7JR1icR1wteO67YcuO642U1Iw6gMH0X4eR3kdfh9S241wLQ5py1wBBHaFoiuyWHUvNbGG2Kk0jJW56gZ7Vt7ZS7xaDQT6cB4Z/h7Febu7OHqfKbREWLcREQEREBERAXzT5V9Snp+UGxeqO3Z4GVpGHq35gBC+llq/yj7IUbGpQ25eNHNbfEyxJGQ4SDoPRPgrBQ5PKXbuU560dSGnv13tlnjnMjiPUOxQmzuzs9jRn3qswYYbb4nROzulWrZPY+nNqmt05XzRxaZM+KJ1ZrI3yN9ZWyKezFKDRZadON8THmOWSQyGSV8nLmSg0JPpuoxn5SrI8Dq6L02rx35RyfDODjoYnZW8mbMS/wBDNG8Z5B4LCsa3HBWtx1NQYwzSQNnaBGZGmPJHX2FQaU3ZnfMr2HZ5conlS+z9C+21xnU38IxvZIJHCPIK37o1Cu+ESwQQbhcQC6IDn4LrtFoomfXJkETIYnNLWR83HKDV+zWjNGu6fYla2Sbz6INYBlsbd7mtgeU0b9apX7DJJM76vtXOladDFfrNiac8YF0hOXFe218e/Za3sjrMHtJP8laku2tGVMH5oPYQRkEeCkdKtugnD8uMcmGSgAZkHdj1LOlq+pYckRDiB2tAIbkKKsgkbIA5jhO1x32xQ+gzGepPePwF3lrMfDwbgM7SQXiKSStvns5tOVAadelied3HDON+IgAFWCGzHI3MZ5gc4zyc1BH7QO/zJ/X0Xsd8Qq7Vsbmo72fn1WuGO0gqx63+hT/1bjz7FS55cWqrvpMkjWmDPNafKTUxc07V4gB55VZvnvkAH2HCldgr+LXBz6E7N1vj2Ly2h+X2JoT8i6tNFk9w5t/kq/s9aLJ4HA849wj3qzuaS9XbdKLpE/eYx46OaHDwXdZNRERAREQEREBVTbpvydST6Nln1q1qsbft/JYk/ZWGIKXsaMbQ7V+qx/6hbAP6FMO4MCoGyoxtDtP+++r8Q1X4fo1tv0XvHsyrEydqPQKvbUUuJrdd+Ommxt/73Kxaf09y8dRgzqEbu6owfEpUjO0SHcqNb+8Smpnp/Csqo3EY8SsHV3cx/AEi3xEUXflOHPZxD8FzqxDrM5OPnxsGe0bv3rwpHN8Y7Inld77Jt5zoix7XHLoZRlrj4q5Jj4h54xz5dFgTRAnw9WcrNsWGg4lZJWd0+UG/Gf8AiWO/mMjDgeYcwhwwuXSPMWOngCQAAPBGEg5BII6EHBC93rywg7Xbb3U52PwfkJMOI54wqfqD/SqHushvsVos/mJ/7PL9SqGov/RfVciXWLjJsqjJv7B22HrHM4D/AJwVVtIHy0Y72hWbZqHf2bkrPJa2zLKcgLH2f0RzLYfac0tjcA1jP1wupdbSy3TZ1IYrQA9RBGD44XuvGs/LB4L2WbQREQEREBERAUJtjDv6LdH0YhJ7lNrE1SHfo2ov2lWVntwg1rse3Ouawf2x0z+6Fe3DDb47nvPsVN2Eizq1xzu1un/BhVnNtkrdW4LsiGSaCQdoeFUrhzDJXdFXtvqzBzXtliAcc9xCyIzYc9jrEZ4kcQY58QJY896w9HZgnwCn2nASkcVrLPzbjuvBJ3SMEhR2szN4m7vDe4YOCcFeuowNkbycY5BzZKOrSq1qLLG+7zqSORwYwMdG0ghuO9IXxn6E3e1GT1Vnn4hTk1PPYqpsleDdW83l3i6xWeIj3EczzV8wrl6mPiv2NNBBy0HPUEKHsbPR5Low6Fx55iJaD7FdjGF5ugB7AuXTXk+k2m9OHO0d43HqOmic385HLF1zvDLfetmvqA9ixpdOaerQc9hCDWNr8xNgg5ryYIPqUBBodiy+HhtLWR2GSOeQcEBbdn2eruJ3oIznkcNA3gvaDSmtAaxga1vIBoAACsuks2i9IocOpFXHSNuFKVtN9Pews+CpjsWayPCikDMNAXquAuUBERAREQEXBXjJMAg9lgavbEdd/wBN7S1gXSbUGgcyOSrc+pia0MuBabbomj9xv3lB10LhR6nfhYN3hR1A89rfR+9a/wBUv6npW0OoCRxfW1Cw+X0uccrHK2bO3BJtZrUX6psQwj/pqY2nq156UPnTGSGOZ1QlwBJCFROgbaVXAcaGRhcBzjLXt+xWmPaOiW8p8ZHQtWt37Hxg5pzzQ9oaDvt9xXI2cvjky3GfW6A/zVTa93NpKTWk8Uvx2NCpe0O3MDQ/gQOe7sMpA+C8P8k7z/zltoH7sX3rMo+TyAvD7TpLB7pOnuQVvYi5qFnaFmpPzwomPijABDMHuW+akhLBnuGVBaRoMULWiKMM3QByCsMUYa3A7EpHoiIorhMLlEHUsC4DAu6IOMLlEQEREBERAREQdH9FF3S7BxlSxCx5YAfagp+pcQsdu55g4wqgXywzMlEE8zo+K4xs9EueSO1bUfQaeoHNeLtHjPVgVRqnZR0sWvWb90OrR3LrLBDiXtjbu4+cpm9dmsXODVyaUds2hKWua6WXGPd/NXeTQ4j/AEYXMGjRtPosHsCHaN0+nlrd4dgUzDprccwsqCoB2dFltbhDTEZp7B2Be7KzB2Be6KK4DQOgXKIgIiICIiAiIgIiICIiAiIgIiICIiDjCYREDCboREHOEREBERAREQEREBERAREQEREBERAREQf/2Q==",
+      "data": []
+    }
+  ],
+  "AllProducts": [
+    {
+      "id": 90509321,
+      "title": "Аналоговая камера Uniarch 5МП (AHD/CVI/TVI/CVBS)",
+      "image": [
+        "https://market.marvel.ru/upload/resize_cache/webp/iblock/6d0/400_400_140cd750bba9870f18aada2478b24840a/6d0d80043d6698f8fb2802ea2b80cb0e.webp"
+      ],
+      "price": 483,
+      "sent": 1
+    },
+    {
+      "id": 331122550,
+      "title": "IP КАМЕРА ВИДЕОНАБЛЮДЕНИЯ УЛИЧНАЯ ПОВОРОТНАЯ 1080P",
+      "image": [
+        "https://msv77.ru/image/cache/data/ip200-ptz-1400x1400_0.jpg"
+      ],
+      "price": 3616
+    },
+    {
+      "id": 941145,
+      "title": "КОМПЛЕКТ НА 4 КАМЕРЫ ПО 2 МЕГАПИКСЕЛЯ",
+      "image": [
+        "https://msv77.ru/image/cache/data/1-komplekts-2020/ahd200-fo20-N-4-1400x1400_0.jpg"
+      ],
+      "price": 1396
+    },
+    {
+      "id": 164325,
+      "title": "IP-камера Dahua DH-IPC-HDBW3241EP-AS-0280B-S2",
+      "image": [
+        "https://static.eldorado.ru/img1/p/b/942234002.jpg/resize/468x468/"
+      ],
+      "price": 1799
+    },
+    {
+      "id": 4865252,
+      "title": "Аналоговая камера Uniarch 2МП  уличная купольная",
+      "image": [
+        "https://market.marvel.ru/upload/resize_cache/webp/iblock/798/400_400_140cd750bba9870f18aada2478b24840a/798c84bc92f5ce9976199b0f242b6874.webp"
+      ],
+      "price": 325
+    },
+    {
+      "id": 43912233424,
+      "title": "IP-камера Uniarch 2МП уличная купольная антивандальная",
+      "image": [
+        "https://market.marvel.ru/upload/resize_cache/webp/iblock/37b/400_400_140cd750bba9870f18aada2478b24840a/37b4c1fcb0e9a31d0bbeec46aa3ef2fb.webp"
+      ],
+      "price": 617,
+      "sent": 1
+    },
+    {
+      "id": 8572153,
+      "title": "IP-камера Uniarch 4МП уличная цилиндрическая ",
+      "image": [
+        "https://market.marvel.ru/upload/resize_cache/webp/iblock/016/400_400_140cd750bba9870f18aada2478b24840a/01608727a9e0cef810be2db74837a317.webp"
+      ],
+      "price": 642,
+      "sent": 1
+    },
+    {
+      "id": 131232,
+      "title": "IP-камера Uniarch 4МП уличная купольная антивандальная",
+      "image": [
+        "https://market.marvel.ru/upload/resize_cache/webp/iblock/ce3/400_400_140cd750bba9870f18aada2478b24840a/ce3942528e556389c30cddf6b836ce0a.webp"
+      ],
+      "price": 741,
+      "sent": 1
+    },
+    {
+      "id": 11800229,
+      "title": "iPhone 15 Pro Max 1 TB (nano-SIM+eSIM), синий",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011527672-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011524609-xl.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011523761-xl.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011531825-xl.webp"
+      ],
+      "price": 29995
+    },
+    {
+      "id": 489786,
+      "title": "iPhone 13 128 GB (nano-SIM+eSIM), белый",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-belyy-nano-sim-esim-1635436454279-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-nano-sim-esim-belyy-1663820830273-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-nano-sim-esim-belyy-1663820830156-xs.webp"
+      ],
+      "price": 7500,
+      "sent": 1
+    },
+    {
+      "id": 201065,
+      "title": "Планшет Samsung Galaxy Tab S9 Ultra, 12/256GB, серый",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088134989-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088132997-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088128159-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088123600-xs.webp"
+      ],
+      "price": 16303
+    },
+    {
+      "id": 7080604,
+      "title": "Samsung Galaxy M32 5G 6/128 GB, синий",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1640693935038-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1663747137756-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1663747132775-xs.webp"
+      ],
+      "price": 2230,
+      "sent": 1
+    },
+    {
+      "id": 6910202,
+      "title": "Планшет Apple iPad Pro 12.9 (2021) Wi-Fi + Cellular, 8/512 GB, серый",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3654/planshet-apple-ipad-pro-12-9-2021-wi-fi-8-512-gb-seryy-1640591075938-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10789/planshet-apple-ipad-pro-12-9-5g-wi-fi-cellular-8-512-gb-seryy-1670309421532-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10789/planshet-apple-ipad-pro-12-9-5g-wi-fi-cellular-8-512-gb-seryy-1670309422510-xs.webp"
+      ],
+      "price": 16100
+    },
+    {
+      "id": 30089,
+      "title": "Samsung Galaxy S20 FE 5G 6/128 GB, синий",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1048/samsung-galaxy-s20-fe-5g-6-128-gb-siniy-1636527094801-md.webp"
+      ],
+      "price": 4899,
+      "sent": 1
+    },
+    {
+      "id": 222331,
+      "title": "Samsung Galaxy S24 Ultra 12/512 GB, фиолетовый",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819089781-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819086470-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819045650-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819086402-xs.webp"
+      ],
+      "price": 16545
+    },
+    {
+      "id": 5050505050,
+      "title": "Samsung Galaxy Z Flip3 5G 8/256 GB, чёрный",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1640236439700-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1664174026551-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1664174026294-xs.webp"
+      ],
+      "price": 7199,
+      "sent": 1
+    },
+    {
+      "id": 81678942,
+      "title": "Ноутбук Apple MacBook Pro 16 2021 (MK1E3) Apple M1",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4317/noutbuk-apple-macbook-pro-16-2021-mk1f3-apple-m1-16-2-3456x2234-16-gb-512-gb-serebristyy-1646196068143-xl.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4317/noutbuk-apple-macbook-pro-16-2021-mk1f3-apple-m1-16-2-3456x2234-16-gb-512-gb-serebristyy-1646196068591-xs.webp"
+      ],
+      "price": 27500
+    },
+    {
+      "id": 435333424,
+      "title": "Ноутбук Asus TUF516PE-AB73 (90NR0641-M02000) Intel Core i7",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4525/noutbuk-asus-tuf516pe-ab73-90nr0641-m02000-intel-core-i7-11370h-nvidia-geforce-rtx-3050ti-15-6-1920x1080-8-gb-512-gb-1647264368993-md.webp"
+      ],
+      "price": 14520,
+      "sent": 1
+    },
+    {
+      "id": 346450,
+      "title": "Ноутбук Apple MacBook Pro 16 2023 (MNW83) Apple M2 Pro/16.",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12029/noutbuk-apple-macbook-pro-16-2023-mnw83-apple-m2-pro-16-2-3456-x-2234-16gb-512gb-1676286330261-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12029/noutbuk-apple-macbook-pro-16-2023-mnw83-apple-m2-pro-16-2-3456-x-2234-16gb-512gb-1676286330449-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12029/noutbuk-apple-macbook-pro-16-2023-mnw83-apple-m2-pro-16-2-3456-x-2234-16gb-512gb-1676286330506-xs.webp"
+      ],
+      "price": 29200
+    },
+    {
+      "id": 5321,
+      "title": "Ноутбук HP 15-dw3005wm (4J0V8UA) Intel Core-i5",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3718/noutbuk-hp-15-dw3005wm-4j0v8ua-intel-core-i5-1135g7-15-6-1920x1080-8-gb-512-gb-1641199704770-md.webp"
+      ],
+      "price": 6501,
+      "sent": 1
+    },
+    {
+      "id": 34354566,
+      "title": "Ноутбук Apple MacBook Air 13 2022 (MLY43) ",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842843090-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842837410-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842829034-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842844190-xs.webp"
+      ],
+      "price": 18000
+    },
+    {
+      "id": 45645097,
+      "title": "Ноутбук Acer Extensa 15 EX215-54G-53BT  Intel Core i5",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6218/noutbuk-acer-extensa-15-ex215-54g-53bt-nx-eghem-004-intel-core-i5-1135g7-nvidia-geforce-mx350-15-6-1920x1080-4-gb-1000-gb-1660824490176-md.webp"
+      ],
+      "price": 6996
+    },
+    {
+      "id": 132435,
+      "title": "Ноутбук Acer Aspire 3 A315-56-594W (NX.A0TAA.005) Intel Core i5",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2518/noutbuk-acer-aspire-3-a315-56-594w-nx-a0taa-005-intel-core-i5-1035g1-15-6-1920x1080-8-gb-256-gb-1638880429315-md.webp"
+      ],
+      "price": 8250,
+      "sent": 1
+    },
+    {
+      "id": 85432753,
+      "title": "Ноутбук Lenovo V15-IIL 82C5 (82C500FYRU) Intel Core i7",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2141/noutbuk-lenovo-v15-iil-82c5-82c500fyru-intel-core-i7-15-6-1920x1080-8-gb-256gb-1638172158599-md.webp"
+      ],
+      "price": 8569,
+      "sent": 1
+    },
+    {
+      "id": 10,
+      "title": "Цель: процесс непрерывного улучшения",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14253/cel-process-nepreryvnogo-uluchsheniya-1684490290308-xxl.webp"
+      ],
+      "price": 159,
+      "sent": 1
+    },
+    {
+      "id": 85,
+      "title": "Безграничье. Прокачай мозг, запоминай быстрее",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15289/bezgraniche-prokachay-mozg-zapominay-bystree-1686903047447-md.webp"
+      ],
+      "price": 146,
+      "sent": 1
+    },
+    {
+      "id": 12,
+      "title": "Amazon. Как изменить мир по своему сценарию",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15388/amazon-kak-izmenit-mir-po-svoemu-scenariyu-1687170700770-xxl.webp"
+      ],
+      "price": 180,
+      "sent": 1
+    },
+    {
+      "id": 9,
+      "title": "Моя жизнь, мои достижения (подарочное издание)",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15170/moya-zhizn-moi-dostizheniya-1686651725276-xxl.webp"
+      ],
+      "price": 244,
+      "sent": 1
+    },
+    {
+      "id": 132,
+      "title": "Гений общения. Как им стать?",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15296/geniy-obshcheniya-kak-im-stat-1686905522907-md.webp"
+      ],
+      "color": "76",
+      "price": "190"
+    },
+    {
+      "id": 15,
+      "title": "Я вижу, о чём вы думаете",
+      "image": [
+        "https://cv4.litres.ru/pub/c/cover_max1500/11249643.jpg"
+      ],
+      "price": "138"
+    },
+    {
+      "id": 30,
+      "title": "Богатый папа и бедный папа (М)",
+      "image": [
+        "https://allbook.by/wp-content/uploads/2016/12/p_2_7_7_7_2777-opasnoe-nasledstvo.jpg"
+      ],
+      "price": "67"
+    },
+    {
+      "id": 481,
+      "title": "Правила Брэнсона",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15414/pravila-brensona-1687235213668-xl.webp"
+      ],
+      "price": "231"
+    },
+    {
+      "id": 4353599233424,
+      "title": "Беспроводные наушники Xiaomi Redmi AirDots 2S, чёрные",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1446/besprovodnye-naushniki-xiaomi-redmi-airdots-2s-chernye-1636970343065-xl.webp"
+      ],
+      "price": 310,
+      "sent": 1
+    },
+    {
+      "id": 14354361,
+      "title": "Беспроводные наушники Sony WH-1000XM5, черный",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5973/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-1657275208277-md.webp"
+      ],
+      "price": "3800"
+    },
+    {
+      "id": 1774,
+      "title": "Беспроводные наушники Xiaomi Redmi Buds 3 Edition, черный",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3942/besprovodnye-naushniki-xiaomi-redmi-buds-3-youth-edition-chernyy-1643369425603-xl.webp"
+      ],
+      "price": 350,
+      "sent": 1
+    },
+    {
+      "id": 905321,
+      "title": "Беспроводные наушники JBL Tune 710BT, чёрный",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5120/besprovodnye-naushniki-jbl-tune-710bt-chernyy-1650540270615-xl.webp"
+      ],
+      "price": 950,
+      "sent": 1
+    },
+    {
+      "id": 40301,
+      "title": "Беспроводные наушники Sony WH-1000XM5, белый",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5974/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-copy-1657275656301-md.webp"
+      ],
+      "price": "3800"
+    },
+    {
+      "id": 659765,
+      "title": "Наушники Xiaomi Mi In-Ear Headphones Basic",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1457/naushniki-xiaomi-mi-in-ear-headphones-basic-1637041779077-md.webp"
+      ],
+      "price": "99"
+    },
+    {
+      "id": 324086,
+      "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp"
+      ],
+      "price": "550"
+    },
+    {
+      "id": 85753,
+      "title": "Беспроводные наушники JBL Live 660NC, синий",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5131/besprovodnye-naushniki-jbl-live-660nc-siniy-1650544329270-md.webp"
+      ],
+      "price": 1480,
+      "sent": 1
+    },
+    {
+      "id": 8545300,
+      "title": "Стиральная машина Shivaki 80К141-I, 8 кг",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/986/stiralnaya-mashina-shivaki-80k141-i-korichnevyy-1635936907687-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/986/stiralnaya-mashina-shivaki-80k141-i-8-kg-1683873202797-xs.webp"
+      ],
+      "price": 5449,
+      "sent": 1
+    },
+    {
+      "id": 4511888555097,
+      "title": "Микроволновая печь Samsung ME88SUG/BW",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2288/mikrovolnovaya-pech-samsung-me88sug-bw-1638258765529-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2288/mikrovolnovaya-pech-samsung-me88sug-bw-1670828189039-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2288/mikrovolnovaya-pech-samsung-me88sug-bw-1670828201723-xs.webp"
+      ],
+      "price": "1 226"
+    },
+    {
+      "id": 1312234435,
+      "title": "Стиральная машина LG TW4V7RW9T, 10.5 кг",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/949/stiralnaya-mashina-lg-tw4v7rw9t-1636356644298-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/949/stiralnaya-mashina-lg-tw4v7rw9t-10-5-kg-1683866937649-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/949/stiralnaya-mashina-lg-tw4v7rw9t-10-5-kg-1683866940762-xs.webp"
+      ],
+      "price": 7146,
+      "sent": 1
+    },
+    {
+      "id": 320202066,
+      "title": "Электрическая плита Gefest ЭП Н Д 6140-03",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2400/elektricheskaya-plita-gefest-ep-n-d-6140-03-1638362636608-md.webp",
+        ""
+      ],
+      "price": "3 984"
+    },
+    {
+      "id": 4300099424,
+      "title": "Стиральная машина LG Steam F2J3HS4L, 7 кг",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1010/stiralnaya-mashina-lg-steam-f2j3hs4l-1636443954614-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1010/stiralnaya-mashina-lg-steam-f2j3hs4l-7-kg-1683880078606-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1010/stiralnaya-mashina-lg-steam-f2j3hs4l-7-kg-1683880079992-xs.webp"
+      ],
+      "price": 4205,
+      "sent": 1
+    },
+    {
+      "id": 9098800435,
+      "title": "Холодильник Beko RDSK240MOOW, 223 л",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1331/holodilnik-beko-rdsk240m00w-1636515949394-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1331/holodilnik-beko-rdsk240moow-223-l-1684387290618-xs.webp"
+      ],
+      "price": "4 050"
+    },
+    {
+      "id": 58921,
+      "title": "Стиральная машина Midea MFC70-ES1201(D), 7 кг",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1009/stiralnaya-mashina-midea-mfc70-es1201-d-7-kg-1635941204535-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1009/stiralnaya-mashina-midea-mfc70-es1201-d-7-kg-1683879927626-xs.webp"
+      ],
+      "price": 3449,
+      "sent": 1
+    },
+    {
+      "id": 43450901,
+      "title": "Кондиционер Gree Fairy GWH24ACD-K3NNA4A, 24 K",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4671/kondicioner-gree-fairy-gwh24acd-k3nna4a-24-k-1648541679044-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14692/kondicioner-gree-fairy-gwh24acd-k3nna1a-24-1685342114605-xs.webp"
+      ],
+      "price": "10 008"
+    },
+    {
+      "id": 5892091,
+      "title": "Телевизор LG UHD 4K 65UP7550PVG, 65 дюйм",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3604/televizor-lg-uhd-4k-65up7550pvg-65-dyuym-1639982526516-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3604/televizor-lg-uhd-4k-65up7550pvg-65-dyuym-1669100966776-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3604/televizor-lg-uhd-4k-65up7550pvg-65-dyuym-1669100968187-xs.webp"
+      ],
+      "price": 8997,
+      "sent": 1
+    },
+    {
+      "id": 161275,
+      "title": "Телевизор Samsung UE82TU8000UXCE, 82 дюйм.",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5953/televizor-samsung-ue82tu8000uxce-82-dyuym-1657009145455-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5953/televizor-samsung-ue82tu8000uxce-82-dyuym-1669021727567-xs.webp"
+      ],
+      "price": 19000
+    },
+    {
+      "id": 8875300,
+      "title": "Телевизор Samsung UE65TU7100UXRU, 65 дюйм",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5744/televizor-samsung-ue65tu7100uxru-65-dyuym-1654405655345-md.webp"
+      ],
+      "price": 7200,
+      "sent": 1
+    },
+    {
+      "id": 34150,
+      "title": "Телевизор Samsung UE55NU7300UXCE, 54.6 дюйм.",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1165/televizor-samsung-ue55nu7300uxce-1637211875016-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1165/televizor-samsung-ue55nu7300uxce-54-6-dyuym-1669374019973-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1165/televizor-samsung-ue55nu7300uxce-54-6-dyuym-1669374019973-xs.webp"
+      ],
+      "price": 12490
+    },
+    {
+      "id": 4300054024,
+      "title": "Телевизор Samsung UE55TU8300U, 55 дюйм",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4296/televizor-samsung-ue65tu8300u-55-dyuym-1646138484672-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4296/televizor-samsung-ue55tu8300u-55-dyuym-1669089322585-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4296/televizor-samsung-ue55tu8300u-55-dyuym-1669089334693-xs.webp"
+      ],
+      "price": 4991,
+      "sent": 1
+    },
+    {
+      "id": 1440185,
+      "title": "Телевизор LG OLED UHD 4K Smart TV OLED65G1PVA IDN, 65 дюйм.",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11987/televizor-lg-oled-uhd-4k-smart-tv-oled65g1pva-idn-65-dyuym-1676108538802-md.webp"
+      ],
+      "price": 23497
+    },
+    {
+      "id": 22131924,
+      "title": "Телевизор TCL Android TV 55P615, 55 дюйм.",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4146/televizor-tcl-android-tv-55p615-55-dyuym-1644837888148-md.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4146/televizor-tcl-android-tv-55p615-55-dyuym-1669091327485-xs.webp",
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4146/televizor-tcl-android-tv-55p615-55-dyuym-1669091327483-xl.webp"
+      ],
+      "price": 6499,
+      "sent": 1
+    },
+    {
+      "id": 48888971,
+      "title": "Телевизор Artel TV LED Smart AU90GA, 86 дюйм",
+      "image": [
+        "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10266/televizor-artel-tv-led-smart-au90ga-86-dyuym-1668659573772-md.webp"
+      ],
+      "price": 29688
+    }
+  ],
+  "SmartphonesTablets": [
+    {
+      "id": 30089,
+      "title": "Samsung Galaxy S20 FE 5G 6/128 GB, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1048/samsung-galaxy-s20-fe-5g-6-128-gb-siniy-1636527094801-md.webp",
+      "price": 4899
+    },
+    {
+      "id": 489786,
+      "title": "iPhone 13 128 GB (nano-SIM+eSIM), белый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/68/iphone-13-128-gb-belyy-nano-sim-esim-1635436454279-md.webp",
+      "price": 7500
+    },
+    {
+      "id": 5050505050,
+      "title": "Samsung Galaxy Z Flip3 5G 8/256 GB, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3631/samsung-galaxy-z-flip3-5g-8-256-gb-chernyy-1640236439700-md.webp",
+      "price": 7199
+    },
+    {
+      "id": 7080604,
+      "title": "Samsung Galaxy M32 5G 6/128 GB, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3693/samsung-galaxy-m32-5g-6-128-gb-siniy-1640693935038-md.webp",
+      "price": 2230
+    },
+    {
+      "id": 80102030509,
+      "title": "Xiaomi Redmi Note 11 6/128 GB (Global version), черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3977/xiaomi-redmi-note-11-6-128-gb-global-version-chernyy-1643867281406-md.webp",
+      "price": 2240
+    },
+    {
+      "id": 90990888,
+      "title": "Samsung Galaxy A13 4/64 GB, голубой",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5125/samsung-galaxy-a13-4-128-gb-goluboy-copy-1650541269094-md.webp",
+      "price": 1750
+    },
+    {
+      "id": 1121,
+      "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+      "price": 14780
+    },
+    {
+      "id": 121314,
+      "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), голубой",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6691/iphone-14-128-gb-nano-sim-nano-sim-goluboy-1663241042054-md.webp",
+      "price": 8500
+    },
+    {
+      "id": 114293,
+      "title": "iPhone 14 128 GB (nano-SIM+nano-SIM), чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6702/iphone-14-128-gb-nano-sim-nano-sim-chernyy-1663240483615-md.webp",
+      "price": 8500
+    },
+    {
+      "id": 117403,
+      "title": "Xiaomi 12T Pro 8/128 GB, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8414/xiaomi-12t-pro-8-128gb-chernyy-1665493658606-md.webp",
+      "price": 8800
+    },
+    {
+      "id": 11350911,
+      "title": "iPhone 13 Pro Max 256 GB (nano-SIM+eSIM), чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/228/iphone-13-pro-max-256-gb-chernyy-nano-sim-esim-1635436628307-md.webp",
+      "price": 11990
+    },
+    {
+      "id": 145586778906,
+      "title": "iPhone 13 Pro Max 128 GB (nano-SIM+nano-SIM), голубой",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/224/iphone-13-pro-max-128-gb-goluboy-nano-sim-nano-sim-1635436615954-md.webp",
+      "price": 11999
+    },
+    {
+      "id": 181732,
+      "title": "iPhone 15 Pro Max 512 GB (nano-SIM+eSIM), серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17947/iphone-15-pro-max-512-gb-nano-sim-esim-seryy-1695011351694-md.webp",
+      "price": 18000
+    },
+    {
+      "id": 11800229,
+      "title": "iPhone 15 Pro Max 1 TB (nano-SIM+eSIM), синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17956/iphone-15-pro-max-1-tb-nano-sim-esim-siniy-1695011527672-md.webp",
+      "price": 29995
+    },
+    {
+      "id": 201065,
+      "title": "Планшет Samsung Galaxy Tab S9 Ultra, 12/256GB, серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18389/planshet-samsung-galaxy-tab-s9-ultra-12-256gb-seryy-1697088134989-md.webp",
+      "price": 16303
+    },
+    {
+      "id": 6910202,
+      "title": "Планшет Apple iPad Pro 12.9 (2021) Wi-Fi + Cellular, 8/512 GB, серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3654/planshet-apple-ipad-pro-12-9-2021-wi-fi-8-512-gb-seryy-1640591075938-md.webp",
+      "price": 16100
+    },
+    {
+      "id": 222331,
+      "title": "Samsung Galaxy S24 Ultra 12/512 GB, фиолетовый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21027/samsung-galaxy-s24-ultra-12-512-gb-fioletovyy-1707819089781-md.webp",
+      "price": 16545
+    },
+    {
+      "id": 27653243298092,
+      "title": "Samsung Galaxy S24 Ultra 12/512 GB, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21039/samsung-galaxy-s24-ultra-12-512-gb-siniy-1707821079961-md.webp",
+      "price": 16545
+    },
+    {
+      "id": 230075,
+      "title": "Samsung Galaxy A54 5G 8/256 GB, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13004/samsung-galaxy-a54-5g-8-256-gb-chernyy-1679899353594-md.webp",
+      "price": 3430
+    },
+    {
+      "id": 22424244,
+      "title": "Samsung Galaxy Z Fold4 12/256 GB, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6639/samsung-galaxy-z-fold4-12-256-gb-chernyy-1662959669567-md.webp",
+      "price": 14780
+    },
+    {
+      "id": 226549995,
+      "title": "Samsung Galaxy Z Fold5 12/512 GB, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17286/samsung-galaxy-z-fold5-12-512-gb-chernyy-1693037832487-md.webp",
+      "price": 13900
+    },
+    {
+      "id": 2578622343574,
+      "title": "iPhone 15 Pro Max 1 TB (eSIM+eSIM), серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17969/iphone-15-pro-max-1-tb-esim-esim-seryy-1695011967370-md.webp",
+      "price": 20995
+    },
+    {
+      "id": 261122009,
+      "title": "iPhone 15 Pro Max 256 GB (nano-SIM+nano-SIM), серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/17798/iphone-15-pro-max-256-gb-nano-sim-nano-sim-seryy-1695010220752-md.webp",
+      "price": 13328
+    },
+    {
+      "id": 245327,
+      "title": "Xiaomi Poco F5 Pro 12/512 GB, белый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18369/xiaomi-poco-f5-pro-12-512-gb-belyy-1697001109175-md.webp",
+      "price": 8000
+    },
+    {
+      "id": 298298,
+      "title": "Xiaomi 13 Pro 12/256 ГБ, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13924/xiaomi-13-pro-12-256-gb-chernyy-1683179472503-md.webp",
+      "price": 11500
+    },
+    {
+      "id": 22030409,
+      "title": "Xiaomi 13T 12/256 GB Global, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18525/xiaomi-13t-12-256-gb-global-chernyy-1697694782445-md.webp",
+      "price": 5599
+    },
+    {
+      "id": 30409080,
+      "title": "Xiaomi 13T 12/256 GB Global, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18621/xiaomi-13t-12-256-gb-global-siniy-1698144374925-md.webp",
+      "price": 6050
+    },
+    {
+      "id": 32211881,
+      "title": "Планшет Apple iPad Pro 11 (2022), 256 GB, серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11690/planshet-apple-ipad-pro-11-2022-256-gb-seryy-1674560768738-md.webp",
+      "price": 14365
+    },
+    {
+      "id": 112234,
+      "title": "Xiaomi 13 Lite 8/128 ГБ, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12511/smartfon-xiaomi-13-lite-8-128-gb-chernyy-1677819261427-md.webp",
+      "price": 4272
+    },
+    {
+      "id": 224,
+      "title": "Redmi 9i 4/64 GB, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1229/redmi-9i-4-64-gb-chernyy-1636347511320-md.webp",
+      "price": 1447
+    },
+    {
+      "id": 101112297,
+      "title": "Xiaomi 12X 8/128 GB, серый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5141/xiaomi-12x-8-128-gb-seryy-1650603586088-md.webp",
+      "price": 3950
+    }
+  ],
+  "Book": [
+    {
+      "id": 9,
+      "title": "Моя жизнь, мои достижения (подарочное издание)",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15170/moya-zhizn-moi-dostizheniya-1686651725276-xxl.webp",
+      "price": "244"
+    },
+    {
+      "id": 12,
+      "title": "Amazon. Как изменить мир по своему сценарию",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15388/amazon-kak-izmenit-mir-po-svoemu-scenariyu-1687170700770-xxl.webp",
+      "price": "180"
+    },
+    {
+      "id": 10,
+      "title": "Цель: процесс непрерывного улучшения",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14253/cel-process-nepreryvnogo-uluchsheniya-1684490290308-xxl.webp",
+      "price": "159"
+    },
+    {
+      "id": 85,
+      "title": "Безграничье. Прокачай мозг, запоминай быстрее",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15289/bezgraniche-prokachay-mozg-zapominay-bystree-1686903047447-md.webp",
+      "price": "146"
+    },
+    {
+      "id": 132,
+      "title": "Гений общения. Как им стать?",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15296/geniy-obshcheniya-kak-im-stat-1686905522907-md.webp",
+      "color": "76",
+      "price": "190"
+    },
+    {
+      "id": 15,
+      "title": "Я вижу, о чём вы думаете",
+      "image": "https://cv4.litres.ru/pub/c/cover_max1500/11249643.jpg",
+      "price": "138"
+    },
+    {
+      "id": 30,
+      "title": "Богатый папа и бедный папа (М)",
+      "image": "https://allbook.by/wp-content/uploads/2016/12/p_2_7_7_7_2777-opasnoe-nasledstvo.jpg",
+      "price": "67"
+    },
+    {
+      "id": 481,
+      "title": "Правила Брэнсона",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15414/pravila-brensona-1687235213668-xl.webp",
+      "price": "231"
+    },
+    {
+      "id": 95,
+      "title": "Подсознательные бедность и богатство",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15235/podsoznatelnye-bednost-i-bogatstvo-1686820376903-xl.webp",
+      "price": "231"
+    },
+    {
+      "id": 145,
+      "title": "Стань самым умным и самым богатым. Часть 2",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15380/stan-samym-umnym-i-samym-bogatym-chast-2-1687168075674-xl.webp",
+      "price": "207"
+    },
+    {
+      "id": 10987,
+      "title": "Из третьего мира - в первый. История Сингапура 1965-2000",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21286/iz-tretego-mira-v-pervyy-istoriya-singapura-1965-2000-1708665421044-xl.webp",
+      "price": "382"
+    },
+    {
+      "id": 221,
+      "title": "Гравити Фолз. Дневник 3 (Ультрафиолетовая краска)",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15171/graviti-folz-dnevnik-3-ultrafioletovaya-kraska-1686652049928-md.webp",
+      "price": "315"
+    },
+    {
+      "id": 6502,
+      "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15232/ilon-mask-tesla-spacex-i-doroga-v-budushchee-1686819640585-xl.webp",
+      "price": "231"
+    },
+    {
+      "id": 40301,
+      "title": "Технический анализ. Полный курс",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15435/tehnicheskiy-analiz-polnyy-kurs-1687240959184-xl.webp",
+      "price": "345"
+    },
+    {
+      "id": 30909,
+      "title": "Ман ва пул",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/15061/man-va-pul-1686284447693-xl.webp",
+      "price": "142"
+    },
+    {
+      "id": 10831,
+      "title": "Война и мир",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/21305/voyna-i-mir-komplekt-iz-2-uh-knig-1708682168781-xl.webp",
+      "price": "121"
+    }
+  ],
+  "SmartWatch": [
+    {
+      "id": 1774,
+      "title": "Беспроводные наушники Xiaomi Redmi Buds 3 Youth Edition, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3942/besprovodnye-naushniki-xiaomi-redmi-buds-3-youth-edition-chernyy-1643369425603-xl.webp",
+      "price": "350"
+    },
+    {
+      "id": 905321,
+      "title": "Беспроводные наушники JBL Tune 710BT, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5120/besprovodnye-naushniki-jbl-tune-710bt-chernyy-1650540270615-xl.webp",
+      "price": "950"
+    },
+    {
+      "id": 659765,
+      "title": "Наушники Xiaomi Mi In-Ear Headphones Basic",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1457/naushniki-xiaomi-mi-in-ear-headphones-basic-1637041779077-md.webp",
+      "price": "99"
+    },
+    {
+      "id": 324086,
+      "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp",
+      "price": "550"
+    },
+    {
+      "id": 4353599233424,
+      "title": "Беспроводные наушники Xiaomi Redmi AirDots 2S, чёрные",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1446/besprovodnye-naushniki-xiaomi-redmi-airdots-2s-chernye-1636970343065-xl.webp",
+      "price": "310"
+    },
+    {
+      "id": 85753,
+      "title": "Беспроводные наушники JBL Live 660NC, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5131/besprovodnye-naushniki-jbl-live-660nc-siniy-1650544329270-md.webp",
+      "price": "1480"
+    },
+    {
+      "id": 14354361,
+      "title": "Беспроводные наушники Sony WH-1000XM5, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5973/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-1657275208277-md.webp",
+      "price": "3800"
+    },
+    {
+      "id": 40301,
+      "title": "Беспроводные наушники Sony WH-1000XM5, белый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5974/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-copy-1657275656301-md.webp",
+      "price": "3800"
+    },
+    {
+      "id": 132,
+      "title": "Беспроводные наушники Hoco W33, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4747/besprovodnye-naushniki-hoco-w33-chernyy-1648828014677-md.webp",
+      "price": "340"
+    },
+    {
+      "id": 1578655252,
+      "title": "Беспроводные наушники Xiaomi Buds 3T Pro, белые",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10378/besprovodnye-naushniki-xiaomi-buds-3t-pro-belye-1669183256110-md.webp",
+      "price": "1350"
+    },
+    {
+      "id": 33550,
+      "title": "Беспроводные TWS наушники QCY T17, голубой",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/14663/besprovodnye-naushniki-qcy-t17-goluboy-1685202168646-md.webp",
+      "price": "670"
+    },
+    {
+      "id": 4812323,
+      "title": "Беспроводные наушники Baseus Bowie H1i, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/16727/besprovodnye-naushniki-baseus-bowie-h1i-chernyy-1690350375447-md.webp",
+      "price": "630"
+    },
+    {
+      "id": 95,
+      "title": "Подсознательные бедность и богатство",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19268/besprovodnye-naushniki-hoco-w46-bezhevyy-1700202574015-md.webp",
+      "price": "231"
+    },
+    {
+      "id": 164325,
+      "title": "Беспроводные наушники Xiaomi Mi True Wireless Earbuds Basic 2, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1403/besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-2-chernyy-1684412896384-md.webp",
+      "price": "244"
+    },
+    {
+      "id": 104345987,
+      "title": "Беспроводные наушники JBL Tune 520BT, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19358/besprovodnye-naushniki-jbl-tune-520bt-siniy-1700632369357-md.webp",
+      "price": "770"
+    },
+    {
+      "id": 845640242,
+      "title": "Проводные наушники Hoco M1 Pro, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/20028/naushniki-hoco-m1-pro-chernyy-1703672002480-md.webp",
+      "price": "60"
+    },
+    {
+      "id": 659765,
+      "title": "Наушники Xiaomi Mi In-Ear Headphones Basic",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1457/naushniki-xiaomi-mi-in-ear-headphones-basic-1637041779077-md.webp",
+      "price": "99"
+    },
+    {
+      "id": 324086,
+      "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp",
+      "price": "550"
+    },
+    {
+      "id": 14354361,
+      "title": "Беспроводные наушники Sony WH-1000XM5, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5973/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-1657275208277-md.webp",
+      "price": "3800"
+    },
+    {
+      "id": 40301,
+      "title": "Беспроводные наушники Sony WH-1000XM5, белый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5974/besprovodnye-naushniki-sony-wh-1000xm5-chernyy-copy-1657275656301-md.webp",
+      "price": "3800"
+    },
+    {
+      "id": 65976534,
+      "title": "Беспроводные наушники QCY T17S",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6159/besprovodnye-naushniki-qcy-t17s-1659514993388-md.webp",
+      "price": "269"
+    },
+    {
+      "id": 32403486,
+      "title": "Наушники Fantech WH01",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6426/naushniki-fantech-wh01-1662008186751-md.webp",
+      "price": "558"
+    },
+    {
+      "id": 145689061,
+      "title": "Беспроводные наушники Hoco W25, чёрный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4743/besprovodnye-naushniki-hoco-w25-chernyy-1648826095316-md.webp",
+      "price": "220"
+    },
+    {
+      "id": 409808,
+      "title": "Беспроводные наушники P9, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5796/besprovodnye-naushniki-p9-serebristyy-copy-1655376947054-md.webp",
+      "price": "68"
+    },
+    {
+      "id": 1487235,
+      "title": "Беспроводные наушники Remax TWS-10i metal, оранжевый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12308/besprovodnye-naushniki-remax-tws-10i-metal-oranzhevyy-1677234075208-md.webp",
+      "price": "169"
+    },
+    {
+      "id": 32401286,
+      "title": "Беспроводные наушники Y08, черный",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10428/besprovodnye-naushniki-y08-chernyy-1669263545687-md.webp",
+      "price": "97"
+    },
+    {
+      "id": 143361,
+      "title": "Беспроводные наушники E12, сиреневый",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10410/besprovodnye-naushniki-e12-sirenevyy-1669202695925-md.webp",
+      "price": "176"
+    },
+    {
+      "id": 4412981,
+      "title": "Беспроводные наушники 560 ВТ, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10384/besprovodnye-naushniki-560-vt-siniy-1669188660376-md.webp",
+      "price": "176"
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 132435,
+      "title": "Ноутбук Acer Aspire 3 A315-56-594W (NX.A0TAA.005) Intel Core i5",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2518/noutbuk-acer-aspire-3-a315-56-594w-nx-a0taa-005-intel-core-i5-1035g1-15-6-1920x1080-8-gb-256-gb-1638880429315-md.webp",
+      "price": "8 250"
+    },
+    {
+      "id": 5321,
+      "title": "Ноутбук HP 15-dw3005wm (4J0V8UA) Intel Core-i5",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3718/noutbuk-hp-15-dw3005wm-4j0v8ua-intel-core-i5-1135g7-15-6-1920x1080-8-gb-512-gb-1641199704770-md.webp",
+      "price": "6 501"
+    },
+    {
+      "id": 435333424,
+      "title": "Ноутбук Asus TUF516PE-AB73 (90NR0641-M02000) Intel Core i7",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4525/noutbuk-asus-tuf516pe-ab73-90nr0641-m02000-intel-core-i7-11370h-nvidia-geforce-rtx-3050ti-15-6-1920x1080-8-gb-512-gb-1647264368993-md.webp",
+      "price": "14 520"
+    },
+    {
+      "id": 85432753,
+      "title": "Ноутбук Lenovo V15-IIL 82C5 (82C500FYRU) Intel Core i7",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2141/noutbuk-lenovo-v15-iil-82c5-82c500fyru-intel-core-i7-15-6-1920x1080-8-gb-256gb-1638172158599-md.webp",
+      "price": "8 569"
+    },
+    {
+      "id": 132124,
+      "title": "Ноутбук Acer Spin 3 SP313-51N-39ME (NX.A6CER.005) Intel Core i3",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4172/noutbuk-acer-spin-3-sp313-51n-39me-nx-a6cer-005-intel-core-i3-1115g4-13-3-1920x1200-8-gb-512-gb-1645435219842-md.webp",
+      "price": "8 580"
+    },
+    {
+      "id": 15252,
+      "title": "Ноутбук Acer Nitro 5 AN515-57-919C (NH.QEUSA.009) Intel Core i9",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6261/noutbuk-acer-nitro-5-an515-57-919c-nh-qeusa-009-intel-core-i9-11900h-nvidia-geforce-rtx-3060-15-6-1920x1080-16-gb-512-gb-1661257721835-md.webp",
+      "price": "16 500"
+    },
+    {
+      "id": 909435,
+      "title": "Ноутбук HP 16-d0023dx (4U097UA) Intel Core i5",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5754/noutbuk-hp-16-d0023dx-4u097ua-intel-core-i5-11400h-nvidia-geforce-rtx-3050-16-1-1920x1080-8-gb-256-gb-1654872357138-md.webp",
+      "price": "8 701"
+    },
+    {
+      "id": 1632575,
+      "title": "Ноутбук Acer Nitro 5 AN515-57-536Q (NH.QEKAA.001) Intel Core i5",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4168/noutbuk-acer-nitro-5-an515-57-536q-nh-qekaa-001-intel-core-i5-11400h-nvidia-geforce-gtx-1650-15-6-1920x1080-8-gb-256-gb-1645174083058-md.webp",
+      "price": "15 900"
+    },
+    {
+      "id": 1043987,
+      "title": "Ноутбук Lenovo IdeaPad S145-15IGM (81MX005JUE) Intel Celeron ",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2052/noutbuk-lenovo-ideapad-s145-15igm-intel-celeron-n4000-15-6-1920x1080-4-gb-1024-gb-1638026624643-md.webp",
+      "price": "3 703"
+    },
+    {
+      "id": 81678942,
+      "title": "Ноутбук Apple MacBook Pro 16 2021 (MK1E3) Apple M1",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4317/noutbuk-apple-macbook-pro-16-2021-mk1f3-apple-m1-16-2-3456x2234-16-gb-512-gb-serebristyy-1646196068143-xl.webp",
+      "price": "27 500"
+    },
+    {
+      "id": 346450,
+      "title": "Ноутбук Apple MacBook Pro 16 2023 (MNW83) Apple M2 Pro/16.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12029/noutbuk-apple-macbook-pro-16-2023-mnw83-apple-m2-pro-16-2-3456-x-2234-16gb-512gb-1676286330261-md.webp",
+      "price": "29 200"
+    },
+    {
+      "id": 34354566,
+      "title": "Ноутбук Apple MacBook Air 13 2022 (MLY43) ",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6354/noutbuk-apple-macbook-air-13-2022-mly43-apple-m2-13-6-2560x1664-8-gb-512-gb-temno-siniy-1661842843090-md.webp",
+      "price": "18 000"
+    },
+    {
+      "id": 45645097,
+      "title": "Ноутбук Acer Extensa 15 EX215-54G-53BT  Intel Core i5",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6218/noutbuk-acer-extensa-15-ex215-54g-53bt-nx-eghem-004-intel-core-i5-1135g7-nvidia-geforce-mx350-15-6-1920x1080-4-gb-1000-gb-1660824490176-md.webp",
+      "price": "6 996"
+    },
+    {
+      "id": 434501,
+      "title": "Ноутбук Asus TUF Dash 15 (2022) (B09RMH9B6F) Intel Core i7",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6902/noutbuk-asus-tuf-dash-15-2022-b09rmh9b6f-intel-core-i7-extreme-15-6-1920-h-1080-6gb-512gb-1663674166400-md.webp",
+      "price": "15 895"
+    },
+    {
+      "id": 6764,
+      "title": "Ноутбук Victus 16-d1015nia (6K2E6EA) Intel Core i7",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8888/noutbuk-victus-16-d1015nia-6k2e6ea-intel-core-i7-12700h-16-1-1920-x-1080-ddr5-16gb-1tb-copy-1666258014314-md.webp",
+      "price": "12 000"
+    },
+    {
+      "id": 3206,
+      "title": "Ноутбук Asus X515E-BR181T Intel Core i3",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/9096/noutbuk-asus-x515e-br181t-intel-core-i3-1115g4-15-6-1920-x-1080-4gb-128-gb-1666756828537-md.webp",
+      "price": "6 055"
+    },
+    {
+      "id": 149061,
+      "title": "Ноутбук Apple MacBook Pro 14 2023 (MPHE3) Apple M2 Pro/14.2",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/12027/noutbuk-apple-macbook-pro-14-2023-mphe3-apple-m2-pro-14-2-3024x1964-16gb-512gb-1676285501453-md.webp",
+      "price": "24 200"
+    },
+    {
+      "id": 4988,
+      "title": "Ноутбук Apple MacBook Pro 14 2021 (MKGP3) Apple M1 Pro/14.2",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4323/noutbuk-apple-macbook-pro-14-2021-mkgp3-apple-m1-pro-14-2-3024x1964-16-gb-512-gb-serebristyy-1646198418110-md.webp",
+      "price": "19 989"
+    },
+    {
+      "id": 1485,
+      "title": "Ноутбук Apple MacBook Pro 13 2022 (MNEQ3LL/A) Apple M2/13.3",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18330/noutbuk-apple-macbook-pro-13-2022-mneq3ll-a-apple-m2-13-3-2560x1600-8-gb-512-gb-serebristyy-1696589796530-md.webp",
+      "price": "16 500"
+    },
+    {
+      "id": 324286,
+      "title": "Ноутбук HP Victus Gaming Laptop 15-fb1013dx AMD Ryzen™ 5 ",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/19628/noutbuk-hp-victus-gaming-laptop-15-fb1013dx-845a2ua-amd-ryzen-5-7535hs-16-1920x1080-gb-512-gb-ssd-1702290255048-md.webp",
+      "price": "7 000"
+    },
+    {
+      "id": 143361,
+      "title": "Ноутбук Asus Rog Strix G16 G614JV-AS73 / Intel Core i7-13650H/16",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13655/noutbuk-asus-rog-strix-g16-g614jv-as73-intel-core-i7-13650h-16-1920x1200-16-gb-512-gb-1681893769571-md.webp",
+      "price": "24 761"
+    },
+    {
+      "id": 489881,
+      "title": "Ноутбук MSI Sword 15 A11UD-001US (9S7-158213-001) Intel Core i7-11800H/NVIDIA GeForce RTX",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4529/noutbuk-msi-sword-15-a11ud-001us-9s7-158213-001-intel-core-i7-11800h-nvidia-geforce-gtx-rtx-3050-ti-15-6-1920x1080-8-gb-512-gb-1647321608843-md.webp",
+      "price": "12 000"
+    },
+    {
+      "id": 4887923,
+      "title": "Ноутбук Lenovo IdeaPad 3 15IML05 81WB (81WB0100UE) Intel Core i3",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4678/noutbuk-lenovo-ideapad-3-15iml05-81wb-81wb0100ue-intel-core-i3-10110u-15-6-1920x1080-4-gb-1000-gb-1648567972216-md.webp",
+      "price": "4 870"
+    },
+    {
+      "id": 67890765,
+      "title": "Ноутбук HP Pavilion Gaming 15-dk2087ne (594S4EA) Intel Core i5-11300H/NVIDIA GeForce ",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6259/noutbuk-hp-pavilion-gaming-15-dk2087ne-594s4ea-intel-core-i5-11300h-nvidia-geforce-gtx-1650-15-6-1920x1080-8-gb-1000-gb-256-gb-ssd-1661256338327-md.webp",
+      "price": "10 230"
+    }
+  ],
+  "Appliances": [
+    {
+      "id": 1312234435,
+      "title": "Стиральная машина LG TW4V7RW9T, 10.5 кг",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/949/stiralnaya-mashina-lg-tw4v7rw9t-1636356644298-md.webp",
+      "price": "7 146"
+    },
+    {
+      "id": 58921,
+      "title": "Стиральная машина Midea MFC70-ES1201(D), 7 кг",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1009/stiralnaya-mashina-midea-mfc70-es1201-d-7-kg-1635941204535-md.webp",
+      "price": "3 449"
+    },
+    {
+      "id": 4300099424,
+      "title": "Стиральная машина LG Steam F2J3HS4L, 7 кг",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1010/stiralnaya-mashina-lg-steam-f2j3hs4l-1636443954614-md.webp",
+      "price": "4 205"
+    },
+    {
+      "id": 8545300,
+      "title": "Стиральная машина Shivaki 80К141-I, 8 кг",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/986/stiralnaya-mashina-shivaki-80k141-i-korichnevyy-1635936907687-md.webp",
+      "price": "5 449"
+    },
+    {
+      "id": 22131124,
+      "title": "Стиральная машина Shivaki 70К124-I-GL/GR, 7 кг, коричневый",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/994/stiralnaya-mashina-shivaki-70k124-i-gl-gr-1635934849182-md.webp",
+      "price": "4 599"
+    },
+    {
+      "id": 9008072,
+      "title": "Холодильник Blesk BL-121ZS (S), 93 л",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1330/holodilnik-blesk-bl-121zs-s-1636514953824-md.webp",
+      "price": "1 438"
+    },
+    {
+      "id": 9098800435,
+      "title": "Холодильник Beko RDSK240MOOW, 223 л",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1331/holodilnik-beko-rdsk240m00w-1636515949394-md.webp",
+      "price": "4 050"
+    },
+    {
+      "id": 16100200575,
+      "title": "Холодильник LG GA-B419SLJL, 302 л",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1382/holodilnik-lg-ga-b419sljl-302-l-1636633329858-md.webp",
+      "price": "8 508"
+    },
+    {
+      "id": 10090102987,
+      "title": "Холодильник Beko RCSK 310M20 S",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1351/holodilnik-beko-rcsk-310m20-s-1636530715411-md.webp",
+      "price": "4 8023"
+    },
+    {
+      "id": 8100942,
+      "title": "Холодильник Samsung RB33A3440SA/WT, 328 л",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2042/holodilnik-samsung-rb33a3440sa-wt-328-l-1660280481985-md.webp",
+      "price": "5 291"
+    },
+    {
+      "id": 34123450,
+      "title": "Стиральная машина Samsung WW65A4S21CX/LD, 6.5 кг",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2430/stiralnaya-mashina-samsung-ww65a4s21cx-ld-6-5-kg-1638522995055-md.webp",
+      "price": "4 580"
+    },
+    {
+      "id": 320202066,
+      "title": "Электрическая плита Gefest ЭП Н Д 6140-03",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2400/elektricheskaya-plita-gefest-ep-n-d-6140-03-1638362636608-md.webp",
+      "price": "3 984"
+    },
+    {
+      "id": 9098800435,
+      "title": "Холодильник Beko RDSK240MOOW, 223 л",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1331/holodilnik-beko-rdsk240m00w-1636515949394-md.webp",
+      "price": "4 050"
+    },
+    {
+      "id": 4511888555097,
+      "title": "Микроволновая печь Samsung ME88SUG/BW",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/2288/mikrovolnovaya-pech-samsung-me88sug-bw-1638258765529-md.webp",
+      "price": "1 226"
+    },
+    {
+      "id": 43450901,
+      "title": "Кондиционер Gree Fairy GWH24ACD-K3NNA4A, 24 K",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4671/kondicioner-gree-fairy-gwh24acd-k3nna4a-24-k-1648541679044-md.webp",
+      "price": "10 008"
+    },
+    {
+      "id": 67010264,
+      "title": "Кондиционер LG Dual Cool Inverter/24CGH, 24 K",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4668/kondicioner-lg-dual-cool-inverter-24cgh-24-k-1648535904601-md.webp",
+      "price": "9 472"
+    },
+    {
+      "id": 32223306,
+      "title": "Кондиционер LG Dual Cool Inverter/18CGH, 18 K",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4666/kondicioner-lg-dual-cool-inverter-18cgh-18-k-1648535915039-md.webp",
+      "price": "8 248"
+    },
+    {
+      "id": 14996061,
+      "title": "Пылесос Техномир TН-1712",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4651/pylesos-tehnomir-tn-1712-1648446604426-md.webp",
+      "price": "1 028"
+    },
+    {
+      "id": 499988,
+      "title": "Пылесос Техномир TH1713",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4652/pylesos-tehnomir-th1713-1648447573466-md.webp",
+      "price": "1 038"
+    },
+    {
+      "id": 14040185,
+      "title": "Пылесос Daewoo RC G-110",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4582/pylesos-daewoo-rc-g-110-1647511428927-md.webp",
+      "price": "637"
+    },
+    {
+      "id": 300286,
+      "title": "Утюг Philips GC1750/20",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4595/utyug-philips-gc1750-20-1647586762252-md.webp",
+      "price": "759"
+    },
+    {
+      "id": 14331,
+      "title": "Утюг Philips GC4939/00",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4598/utyug-philips-gc4939-00-1647598595429-md.webp",
+      "price": "1 897"
+    },
+    {
+      "id": 488881,
+      "title": "Утюг Philips GC5039/30",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4609/utyug-philips-gc5039-30-1647673898021-md.webp",
+      "price": "2 189"
+    },
+    {
+      "id": 480016123,
+      "title": "Микроволновая печь Artel 23MX39",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5168/mikrovolnovaya-pech-artel-23mx39-1650870195407-md.webp",
+      "price": "1 549"
+    },
+    {
+      "id": 678765,
+      "title": "Электрический духовой шкаф Simfer B 6208 OERIM",
+      "src": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6346/elektricheskiy-duhovoy-shkaf-simfer-b-6208-oerim-1661774584364-md.webp",
+      "price": "2 850"
+    }
+  ],
+  "TV": [
+    {
+      "id": 5892091,
+      "title": "Телевизор LG UHD 4K 65UP7550PVG, 65 дюйм",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/3604/televizor-lg-uhd-4k-65up7550pvg-65-dyuym-1639982526516-md.webp",
+      "price": "8 997"
+    },
+    {
+      "id": 4300054024,
+      "title": "Телевизор Samsung UE55TU8300U, 55 дюйм",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4296/televizor-samsung-ue65tu8300u-55-dyuym-1646138484672-md.webp",
+      "price": "4 991"
+    },
+    {
+      "id": 8875300,
+      "title": "Телевизор Samsung UE65TU7100UXRU, 65 дюйм",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5744/televizor-samsung-ue65tu7100uxru-65-dyuym-1654405655345-md.webp",
+      "price": "7 200"
+    },
+    {
+      "id": 22131924,
+      "title": "Телевизор TCL Android TV 55P615, 55 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4146/televizor-tcl-android-tv-55p615-55-dyuym-1644837888148-md.webp",
+      "price": "6 499"
+    },
+    {
+      "id": 90018072,
+      "title": "Холодильник Blesk BL-121ZS (S), 93 л",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/4295/televizor-samsung-ue65tu8300u-55-dyuym-1646138153276-md.webp",
+      "price": "9 686"
+    },
+    {
+      "id": 9880435,
+      "title": "Телевизор Samsung UE55AU8000UXCE, 55 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5937/televizor-samsung-ue55au8000uxce-55-dyuym-1656932382095-md.webp",
+      "price": "4 846"
+    },
+    {
+      "id": 161275,
+      "title": "Телевизор Samsung UE82TU8000UXCE, 82 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5953/televizor-samsung-ue82tu8000uxce-82-dyuym-1657009145455-md.webp",
+      "price": "19 000"
+    },
+    {
+      "id": 109010297,
+      "title": "Телевизор Premier 43PRM600, 43 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8115/televizor-premier-43prm600-43-dyuym-1664945547029-md.webp",
+      "price": "3 375"
+    },
+    {
+      "id": 8154542,
+      "title": "Телевизор LG 43LH547V, 43 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1182/televizor-lg-43lh547v-1636185518685-md.webp",
+      "price": "5 418"
+    },
+    {
+      "id": 34150,
+      "title": "Телевизор Samsung UE55NU7300UXCE, 54.6 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1165/televizor-samsung-ue55nu7300uxce-1637211875016-md.webp",
+      "price": "12 490"
+    },
+    {
+      "id": 32020032066,
+      "title": "Телевизор Artel 43AF90G, 43 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1184/televizor-artel-43af90g-109-sm-1636185953320-md.webp",
+      "price": "3 119"
+    },
+    {
+      "id": 4511885597,
+      "title": "Телевизор LG 55UM7300PLB 55 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1076/televizor-lg-55um7300plb-55-dyuym-1637211096532-md.webp",
+      "price": "8 439"
+    },
+    {
+      "id": 4345901,
+      "title": "Телевизор Samsung UE55NU7500UXCE, 55 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1052/televizor-samsung-ue55nu7500uxce-1636028006522-md.webp",
+      "price": "12 619"
+    },
+    {
+      "id": 670100264,
+      "title": "Телевизор Artel 65AU90GS Smart, 65 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5077/televizor-artel-65au90gs-smart-65-dyuym-1650430553737-md.webp",
+      "price": "12 596"
+    },
+    {
+      "id": 321323306,
+      "title": "Телевизор LG 75NAN0816PA, 75 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/8465/televizor-lg-75nan0816pa-75-dyuym-1665647079674-md.webp",
+      "price": "22 209"
+    },
+    {
+      "id": 149960961,
+      "title": "Телевизор Samsung UE75AU9070UXCE, 75 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/9777/televizor-samsung-ue75au9070uxce-1668053677205-md.webp",
+      "price": "19 875"
+    },
+    {
+      "id": 4999838,
+      "title": "Телевизор Samsung QLED UHD 4K Smart TV QE55Q80AAUXCE, 55 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11985/televizor-samsung-qled-uhd-4k-smart-tv-qe55q80aauxce-55-dyuym-1676107074451-md.webp",
+      "price": "11 983"
+    },
+    {
+      "id": 1440185,
+      "title": "Телевизор LG OLED UHD 4K Smart TV OLED65G1PVA IDN, 65 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/11987/televizor-lg-oled-uhd-4k-smart-tv-oled65g1pva-idn-65-dyuym-1676108538802-md.webp",
+      "price": "23 497"
+    },
+    {
+      "id": 48888971,
+      "title": "Телевизор Artel TV LED Smart AU90GA, 86 дюйм",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/10266/televizor-artel-tv-led-smart-au90ga-86-dyuym-1668659573772-md.webp",
+      "price": "29 688"
+    },
+    {
+      "id": 14010331,
+      "title": "Телевизор Artel TV UA50H3401 AndroidTV, 50 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/18550/televizor-artel-tv-ua50h3401-androidtv-50-dyuym-1697794412364-md.webp",
+      "price": "4 689"
+    },
+    {
+      "id": 23123,
+      "title": "Телевизор Artel A9000, 49 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5061/televizor-artel-a9000-49-dyuym-1650365507152-md.webp",
+      "price": "5 100"
+    },
+    {
+      "id": 60000005,
+      "title": "Телевизор Eurolux 50",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/13418/televizor-eurolux-50-eu-led-43-ast-dn4s-1681120197375-md.webp",
+      "price": "2 332"
+    },
+    {
+      "id": 13122343,
+      "title": "Телевизор TCL 32S6500",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1032/televizor-tcl-32s6500-1636017755253-md.webp",
+      "price": "1 976"
+    },
+    {
+      "id": 3001286,
+      "title": "Телевизор Artel 9100, 49 дюйм.",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5082/televizor-artel-9100-49-dyuym-1650433158784-md.webp",
+      "price": "3 099"
+    }
+  ],
+  "Addtocart": [],
+  "total": {
+    "price": 0,
+    "counter": 0
+  },
+  "AddWishList": [
+    {
+      "id": 324086,
+      "title": "Беспроводные наушники Samsung EO-BG920 Level U, синий",
+      "image": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/1427/besprovodnye-naushniki-samsung-eo-bg920-level-u-1636963305784-md.webp",
+      "price": "550"
+    }
+  ]
+}
